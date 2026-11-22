@@ -1,0 +1,5641 @@
+{
+ "home": {
+  "stats": {
+   "models": 438,
+   "prompts": 276,
+   "vendors": 23,
+   "works": 1395
+  }
+ },
+ "chronicle": [
+  {
+   "date": "11月18日",
+   "text": "Gemini 4 Neon 语言",
+   "modelId": "gemini-4-neon"
+  },
+  {
+   "date": "11月17日",
+   "text": "GPT-6.2 Astra 语言 API LAB",
+   "modelId": "gpt-6.2-astra"
+  },
+  {
+   "date": "11月17日",
+   "text": "GPT-6.2 Sol 语言 API LAB",
+   "modelId": "gpt-6.2-sol"
+  },
+  {
+   "date": "11月16日",
+   "text": "Qwen4-Max 语言",
+   "modelId": "qwen4-max"
+  },
+  {
+   "date": "11月12日",
+   "text": "Gemini 4 Hydrogen 语言 API LAB",
+   "modelId": "gemini-4-hydrogen"
+  },
+  {
+   "date": "11月10日",
+   "text": "Gemini 4 Carbon 语言 API LAB",
+   "modelId": "gemini-4-carbon"
+  },
+  {
+   "date": "11月9日",
+   "text": "Claude Fable 5.2 语言 LAB",
+   "modelId": "claude-fable-5-2"
+  },
+  {
+   "date": "11月9日",
+   "text": "Claude Mythos 5.2 语言",
+   "modelId": "claude-mythos-5.2"
+  },
+  {
+   "date": "11月9日",
+   "text": "Muse Ember 语言",
+   "modelId": "muse-ember"
+  },
+  {
+   "date": "11月9日",
+   "text": "Muse Ember 语言",
+   "modelId": "muse-ember-1.0"
+  },
+  {
+   "date": "11月5日",
+   "text": "Gemini Omni 1.2 Flash 视频 LAB",
+   "modelId": "flow-omni-1.2-flash"
+  },
+  {
+   "date": "10月27日",
+   "text": "Genie 4 语言",
+   "modelId": "genie-4"
+  },
+  {
+   "date": "10月27日",
+   "text": "m MAI-Cyber-1.1-Flash 语言",
+   "modelId": "mai-cyber-1.1-flash"
+  },
+  {
+   "date": "10月27日",
+   "text": "m MAI-Image-2.7 图像",
+   "modelId": "mai-image-2.7"
+  },
+  {
+   "date": "10月26日",
+   "text": "GPT-6.1 Terra 语言 API LAB",
+   "modelId": "gpt-6.1-terra"
+  },
+  {
+   "date": "10月23日",
+   "text": "Kimi K3.1 Pro 语言 API LAB",
+   "modelId": "kimi-k3.1-pro"
+  },
+  {
+   "date": "10月23日",
+   "text": "Kimi K3.1 Pro Highspeed 语言",
+   "modelId": "kimi-k3.1-pro-highspeed"
+  },
+  {
+   "date": "10月19日",
+   "text": "MiniMax-M3.1-Flash 语言 API LAB",
+   "modelId": "minimax-m3.1-flash"
+  },
+  {
+   "date": "10月17日",
+   "text": "DeepSeek V4.1 Flash 1017 语言",
+   "modelId": "deepseek-flash"
+  },
+  {
+   "date": "10月17日",
+   "text": "DeepSeek V4 Flash Vision Exp 语言",
+   "modelId": "deepseek-v4-flash-vision-exp"
+  },
+  {
+   "date": "10月15日",
+   "text": "Kling 4.0 视频 API DRAW LAB",
+   "modelId": "kling-4.0"
+  },
+  {
+   "date": "10月15日",
+   "text": "Muse Spark Open 语言",
+   "modelId": "muse-spark-open"
+  },
+  {
+   "date": "10月15日",
+   "text": "GPT-Live-1.1 音乐",
+   "modelId": "gpt-live-1.1"
+  },
+  {
+   "date": "10月15日",
+   "text": "GPT-Live-1.1 Quip 音乐",
+   "modelId": "gpt-live-1.1-quip"
+  },
+  {
+   "date": "10月14日",
+   "text": "Grok Voice 3.0 语言",
+   "modelId": "grok-voice-3.0"
+  },
+  {
+   "date": "10月13日",
+   "text": "Gemini 4 Argon 语言 API LAB",
+   "modelId": "gemini-4-argon"
+  },
+  {
+   "date": "10月12日",
+   "text": "Muse Wonder 语言",
+   "modelId": "muse-wonder"
+  },
+  {
+   "date": "10月12日",
+   "text": "Muse Wonder 语言",
+   "modelId": "muse-wonder-1.0"
+  },
+  {
+   "date": "10月12日",
+   "text": "Muse Wonder Full 语言",
+   "modelId": "muse-wonder-full"
+  },
+  {
+   "date": "10月9日",
+   "text": "Qwen-Image-2.1-Pro 图像",
+   "modelId": "qwen-image-2.1-pro"
+  },
+  {
+   "date": "10月7日",
+   "text": "Claude Haiku 5.5 语言 API LAB",
+   "modelId": "claude-haiku-5-5"
+  },
+  {
+   "date": "10月6日",
+   "text": "Gemini 3.6 Flash Image (Nano Banana 2.1) 语言",
+   "modelId": "gemini-3.6-flash-image"
+  },
+  {
+   "date": "10月6日",
+   "text": "Nano Banana 2.1 图像 API DRAW LAB",
+   "modelId": "gemini-nano-banana-2.1"
+  },
+  {
+   "date": "10月6日",
+   "text": "m Mistral Large 4 语言",
+   "modelId": "mistral-large-4"
+  },
+  {
+   "date": "10月6日",
+   "text": "m Mistral Large 4.0.8 语言",
+   "modelId": "mistral-large-4-0-8"
+  },
+  {
+   "date": "10月1日",
+   "text": "m MAI-Transcribe-2-Streaming 语言",
+   "modelId": "mai-transcribe-2-streaming"
+  },
+  {
+   "date": "10月1日",
+   "text": "m MAI-Voice-2.1 语音合成",
+   "modelId": "mai-voice-2.1"
+  },
+  {
+   "date": "10月1日",
+   "text": "m MAI-Voice-2.1-Flash 语音合成",
+   "modelId": "mai-voice-2.1-flash"
+  },
+  {
+   "date": "10月1日",
+   "text": "Grok Imagine Video 1.5 Lite 视频",
+   "modelId": "grok-imagine-video-1.5-lite"
+  },
+  {
+   "date": "9月29日",
+   "text": "GPT-6.1 Sol 语言 API LAB",
+   "modelId": "gpt-6.1-sol"
+  },
+  {
+   "date": "9月28日",
+   "text": "Claude Sonnet 5.5 语言 API LAB",
+   "modelId": "claude-sonnet-5-5"
+  },
+  {
+   "date": "9月23日",
+   "text": "n Nemotron 3.5 Bolt E4B 语言",
+   "modelId": "nemotron-3.5-bolt-e4b"
+  },
+  {
+   "date": "9月22日",
+   "text": "Claude Opus 5.5 语言 API LAB",
+   "modelId": "claude-opus-5-5"
+  },
+  {
+   "date": "9月22日",
+   "text": "b FLUX 3 Action 语言",
+   "modelId": "flux-3-action"
+  },
+  {
+   "date": "9月22日",
+   "text": "GPT-6 Luna 语言 API LAB",
+   "modelId": "gpt-6-luna"
+  },
+  {
+   "date": "9月22日",
+   "text": "GPT-6 Luna Decisions 语言",
+   "modelId": "gpt-6-luna-decisions"
+  },
+  {
+   "date": "9月22日",
+   "text": "GPT-6 Sol 语言 API LAB",
+   "modelId": "gpt-6-sol"
+  },
+  {
+   "date": "9月22日",
+   "text": "x MiMo-V2.6-Flash 语言",
+   "modelId": "mimo-v2.6-flash"
+  },
+  {
+   "date": "9月22日",
+   "text": "x MiMo-V2.6-Pro 语言",
+   "modelId": "mimo-v2.6-pro"
+  },
+  {
+   "date": "9月21日",
+   "text": "Grok 4.7 语言 API LAB",
+   "modelId": "grok-4.7"
+  },
+  {
+   "date": "9月21日",
+   "text": "x MiMo-V2.6-Pro-UltraSpeed 语言",
+   "modelId": "mimo-v2.6-pro-ultraspeed"
+  },
+  {
+   "date": "9月20日",
+   "text": "Qwen-Image-2.1 图像",
+   "modelId": "qwen-image-2.1"
+  },
+  {
+   "date": "9月18日",
+   "text": "GLM-5.3-FlashX 语言 API LAB",
+   "modelId": "glm-5.3-flashx"
+  },
+  {
+   "date": "9月17日",
+   "text": "Qwen3.8 Omni Flash 语言",
+   "modelId": "qwen3.8-omni-flash"
+  },
+  {
+   "date": "9月16日",
+   "text": "Step 5 Preview 语言 API LAB",
+   "modelId": "step-5-preview"
+  },
+  {
+   "date": "9月11日",
+   "text": "kimi-k2.8-preview 语言 API LAB",
+   "modelId": "kimi-k2.8-preview"
+  },
+  {
+   "date": "9月9日",
+   "text": "deepseek-v4-1-flash-260910 语言 API LAB",
+   "modelId": "deepseek-v4.1-flash"
+  },
+  {
+   "date": "9月9日",
+   "text": "Suno v6 音乐 API DRAW LAB",
+   "modelId": "suno-v6"
+  },
+  {
+   "date": "9月8日",
+   "text": "ChatGPT Images 2.5 图像",
+   "modelId": "chatgpt-images-2.5"
+  },
+  {
+   "date": "9月8日",
+   "text": "GPT Image 2.5 Flare 图像 API DRAW LAB",
+   "modelId": "gpt-image-2.5-flare"
+  },
+  {
+   "date": "9月8日",
+   "text": "GPT Image 2.5 Sunburst 图像 API DRAW LAB",
+   "modelId": "gpt-image-2.5-sunburst"
+  },
+  {
+   "date": "9月4日",
+   "text": "m MAI-Image-2.6 图像",
+   "modelId": "mai-image-2.6"
+  },
+  {
+   "date": "9月4日",
+   "text": "m MAI-Image-2.6-Flash 图像",
+   "modelId": "mai-image-2.6-flash"
+  },
+  {
+   "date": "9月3日",
+   "text": "m MAI-Transcribe-2 语言",
+   "modelId": "mai-transcribe-2"
+  },
+  {
+   "date": "9月3日",
+   "text": "GPT-6 Astra 语言 API LAB",
+   "modelId": "gpt-6-astra"
+  },
+  {
+   "date": "9月2日",
+   "text": "Gemini 3.8 Flash 语言 API LAB",
+   "modelId": "gemini-3.8-flash"
+  },
+  {
+   "date": "9月2日",
+   "text": "Muse Spark 1.3 语言",
+   "modelId": "muse-spark-1.3"
+  },
+  {
+   "date": "9月2日",
+   "text": "Muse Spark 1.3 Contributor 语言",
+   "modelId": "muse-spark-1.3-contributor"
+  },
+  {
+   "date": "9月1日",
+   "text": "Claude Fable 5.1 语言 API LAB",
+   "modelId": "claude-fable-5-1"
+  },
+  {
+   "date": "9月",
+   "text": "doubao-seed-2-1-lite-260915 语言 API LAB",
+   "modelId": "doubao-seed-2-1-lite"
+  },
+  {
+   "date": "8月28日",
+   "text": "Tencent Hy4 preview 语言",
+   "modelId": "tencent-hy4-preview"
+  },
+  {
+   "date": "8月26日",
+   "text": "Qwen3.8 Flash 语言",
+   "modelId": "qwen3.8-flash"
+  },
+  {
+   "date": "8月20日",
+   "text": "GLM-5.3-Flash 语言 API LAB",
+   "modelId": "glm-5.3-flash"
+  },
+  {
+   "date": "8月14日",
+   "text": "qwen/qwen3.8-27b 语言 API LAB",
+   "modelId": "qwen3.8-27b"
+  },
+  {
+   "date": "8月14日",
+   "text": "GLM-5.3 语言 API LAB",
+   "modelId": "glm-5.3"
+  },
+  {
+   "date": "8月13日",
+   "text": "Gemini 3.7 Flash 语言 API LAB",
+   "modelId": "gemini-3.7-flash"
+  },
+  {
+   "date": "8月13日",
+   "text": "m MAI-Cyber-1-Flash 语言",
+   "modelId": "mai-cyber-1-flash"
+  },
+  {
+   "date": "8月12日",
+   "text": "Grok 4.6 语言 API LAB",
+   "modelId": "grok-4.6"
+  },
+  {
+   "date": "8月11日",
+   "text": "m MAI-Code-1.1-Flash 语言",
+   "modelId": "mai-code-1.1-flash"
+  },
+  {
+   "date": "8月11日",
+   "text": "n Nemotron 3.5 Lightning 语言",
+   "modelId": "nemotron-3.5-lightning"
+  },
+  {
+   "date": "8月11日",
+   "text": "GPT-5.6 Cyber 语言",
+   "modelId": "gpt-5.6-cyber"
+  },
+  {
+   "date": "8月11日",
+   "text": "s SenseNova 6.8 Flash Lite 语言",
+   "modelId": "sensenova-6.8-flash-lite"
+  },
+  {
+   "date": "8月10日",
+   "text": "Muse Glimmer 语言",
+   "modelId": "muse-glimmer"
+  },
+  {
+   "date": "8月8日",
+   "text": "Qwen3.8-2.4T-A95B 语言",
+   "modelId": "qwen3.8-2.4t-a95b"
+  },
+  {
+   "date": "8月7日",
+   "text": "Grok Imagine Image 2.0 图像 API DRAW LAB",
+   "modelId": "grok-imagine-image-2.0"
+  },
+  {
+   "date": "8月5日",
+   "text": "SeedRealtime 语言",
+   "modelId": "seedrealtime"
+  },
+  {
+   "date": "8月5日",
+   "text": "Muse Spark 1.2 语言",
+   "modelId": "muse-spark-1.2"
+  },
+  {
+   "date": "8月5日",
+   "text": "Muse Spark 1.2 Contributor 语言",
+   "modelId": "muse-spark-1.2-contributor"
+  },
+  {
+   "date": "7月31日",
+   "text": "Seedance 2.5 视频 API DRAW LAB",
+   "modelId": "doubao-seedance-2-5"
+  },
+  {
+   "date": "7月31日",
+   "text": "MiniMax H3 视频 API DRAW LAB",
+   "modelId": "minimax-h3"
+  },
+  {
+   "date": "7月29日",
+   "text": "GPT Live Transcribe 语言",
+   "modelId": "gpt-live-transcribe"
+  },
+  {
+   "date": "7月29日",
+   "text": "GPT Transcribe 语言",
+   "modelId": "gpt-transcribe"
+  },
+  {
+   "date": "7月29日",
+   "text": "Grok Voice 2.0 音乐",
+   "modelId": "grok-voice-2.0"
+  },
+  {
+   "date": "7月24日",
+   "text": "Claude Opus 5 语言 API LAB",
+   "modelId": "claude-opus-5"
+  },
+  {
+   "date": "7月23日",
+   "text": "m MAI-Image-2.5-Pro 图像",
+   "modelId": "mai-image-2.5-pro"
+  },
+  {
+   "date": "7月23日",
+   "text": "m MAI-Voice-2-Flash 语音合成",
+   "modelId": "mai-voice-2-flash"
+  },
+  {
+   "date": "7月21日",
+   "text": "Gemini 3.5 Flash Lite 语言 API LAB",
+   "modelId": "gemini-3.5-flash-lite"
+  },
+  {
+   "date": "7月21日",
+   "text": "Gemini 3.6 Flash 语言 API LAB",
+   "modelId": "gemini-3.6-flash"
+  },
+  {
+   "date": "7月19日",
+   "text": "Qwen3.8 Max 语言",
+   "modelId": "qwen3.8-max"
+  },
+  {
+   "date": "7月16日",
+   "text": "Kimi K3 语言 API LAB",
+   "modelId": "kimi-k3"
+  },
+  {
+   "date": "7月15日",
+   "text": "Qwen3.7 Flash 语言",
+   "modelId": "qwen3.7-flash"
+  },
+  {
+   "date": "7月9日",
+   "text": "GPT-5.6 语言",
+   "modelId": "gpt-5.6"
+  },
+  {
+   "date": "7月9日",
+   "text": "GPT-5.6 Luna 语言 API LAB",
+   "modelId": "gpt-5.6-luna"
+  },
+  {
+   "date": "7月9日",
+   "text": "GPT-5.6 Sol 语言 API LAB",
+   "modelId": "gpt-5.6-sol"
+  },
+  {
+   "date": "7月9日",
+   "text": "GPT-5.6 Terra 语言 API LAB",
+   "modelId": "gpt-5.6-terra"
+  },
+  {
+   "date": "7月8日",
+   "text": "Seedream 5.0 Pro 图像 API DRAW LAB",
+   "modelId": "doubao-seedream-5-0-pro"
+  },
+  {
+   "date": "7月8日",
+   "text": "Grok 4.5 语言 API LAB",
+   "modelId": "grok-4.5"
+  },
+  {
+   "date": "7月7日",
+   "text": "Muse Image 图像",
+   "modelId": "muse-image"
+  },
+  {
+   "date": "7月6日",
+   "text": "GPT-Realtime-2.1 语言",
+   "modelId": "gpt-realtime-2.1"
+  },
+  {
+   "date": "7月6日",
+   "text": "GPT-Realtime-2.1-Mini 语言",
+   "modelId": "gpt-realtime-2.1-mini"
+  },
+  {
+   "date": "7月6日",
+   "text": "hy3 语言 LAB",
+   "modelId": "hy3"
+  },
+  {
+   "date": "7月2日",
+   "text": "Gemma 4 E2B 语言",
+   "modelId": "gemma-4-e2b"
+  },
+  {
+   "date": "7月2日",
+   "text": "Gemma 4 E4B 语言",
+   "modelId": "gemma-4-e4b"
+  },
+  {
+   "date": "6月30日",
+   "text": "Nano Banana 2 Lite 图像 API DRAW LAB",
+   "modelId": "gemini-3.1-flash-lite-image"
+  },
+  {
+   "date": "6月30日",
+   "text": "Gemini Omni Flash Preview 视频",
+   "modelId": "gemini-omni-flash-preview"
+  },
+  {
+   "date": "6月29日",
+   "text": "Claude Sonnet 5 语言 API LAB",
+   "modelId": "claude-sonnet-5"
+  },
+  {
+   "date": "6月23日",
+   "text": "Seed 2.1 Pro 语言 API LAB",
+   "modelId": "doubao-seed-2-1-pro"
+  },
+  {
+   "date": "6月23日",
+   "text": "Seed 2.1 Turbo 语言 API LAB",
+   "modelId": "doubao-seed-2-1-turbo"
+  },
+  {
+   "date": "6月23日",
+   "text": "Seed Character 语言",
+   "modelId": "doubao-seed-character"
+  },
+  {
+   "date": "6月23日",
+   "text": "Seed Evolving 语言 API LAB",
+   "modelId": "doubao-seed-evolving"
+  },
+  {
+   "date": "6月17日",
+   "text": "Kling 3.0 Turbo 视频 API DRAW LAB",
+   "modelId": "kling-3.0-turbo"
+  },
+  {
+   "date": "6月15日",
+   "text": "Seedance 2.0 Mini 视频 API DRAW LAB",
+   "modelId": "doubao-seedance-2-0-mini"
+  },
+  {
+   "date": "6月13日",
+   "text": "GLM-5.2 语言 API LAB",
+   "modelId": "glm-5.2"
+  },
+  {
+   "date": "6月12日",
+   "text": "Kimi K2.7 Code 语言 API LAB",
+   "modelId": "kimi-k2.7-code"
+  },
+  {
+   "date": "6月12日",
+   "text": "Kimi K2.7 Code HighSpeed 语言",
+   "modelId": "kimi-k2.7-code-highspeed"
+  },
+  {
+   "date": "6月10日",
+   "text": "DiffusionGemma 26B-A4B 语言",
+   "modelId": "diffusiongemma-26b-a4b"
+  },
+  {
+   "date": "6月9日",
+   "text": "c North Mini Code 语言",
+   "modelId": "north-mini-code"
+  },
+  {
+   "date": "6月9日",
+   "text": "Gemini 3.5 Live Translate Preview 语言",
+   "modelId": "gemini-3.5-live-translate-preview"
+  },
+  {
+   "date": "6月8日",
+   "text": "x MiMo-V2.5-Pro-UltraSpeed 语言",
+   "modelId": "mimo-v2.5-pro-ultraspeed"
+  },
+  {
+   "date": "6月7日",
+   "text": "Claude Fable 5 语言 API LAB",
+   "modelId": "claude-fable-5"
+  },
+  {
+   "date": "6月4日",
+   "text": "n Nemotron 3 Ultra 语言",
+   "modelId": "nemotron-3-ultra"
+  },
+  {
+   "date": "6月3日",
+   "text": "Gemma 4 12B 语言",
+   "modelId": "gemma-4-12b"
+  },
+  {
+   "date": "6月2日",
+   "text": "Qwen3.7 Plus 语言",
+   "modelId": "qwen3.7-plus"
+  },
+  {
+   "date": "6月2日",
+   "text": "m MAI-Code-1-Flash 语言",
+   "modelId": "mai-code-1-flash"
+  },
+  {
+   "date": "6月2日",
+   "text": "m MAI-Image-2.5 图像",
+   "modelId": "mai-image-2.5"
+  },
+  {
+   "date": "6月2日",
+   "text": "m MAI-Image-2.5-Flash 图像",
+   "modelId": "mai-image-2.5-flash"
+  },
+  {
+   "date": "6月2日",
+   "text": "m MAI-Thinking-1 语言",
+   "modelId": "mai-thinking-1"
+  },
+  {
+   "date": "6月2日",
+   "text": "m MAI-Transcribe-1.5 语言",
+   "modelId": "mai-transcribe-1.5"
+  },
+  {
+   "date": "6月2日",
+   "text": "m MAI-Voice-2 语音合成",
+   "modelId": "mai-voice-2"
+  },
+  {
+   "date": "6月1日",
+   "text": "MiniMax-M3 语言 API LAB",
+   "modelId": "minimax-m3"
+  },
+  {
+   "date": "5月30日",
+   "text": "Grok Imagine Video 1.5 视频 API DRAW LAB",
+   "modelId": "grok-imagine-video-1.5"
+  },
+  {
+   "date": "5月29日",
+   "text": "Step 3.7 Flash 语言",
+   "modelId": "step-3.7-flash"
+  },
+  {
+   "date": "5月29日",
+   "text": "Grok Build 0.1 语言",
+   "modelId": "grok-build-0.1"
+  },
+  {
+   "date": "5月28日",
+   "text": "Claude Opus 4.8 语言 API LAB",
+   "modelId": "claude-opus-4-8"
+  },
+  {
+   "date": "5月28日",
+   "text": "Nano Banana 2 图像 API DRAW LAB",
+   "modelId": "gemini-3.1-flash-image-preview"
+  },
+  {
+   "date": "5月20日",
+   "text": "c Command A+ 语言",
+   "modelId": "command-a+"
+  },
+  {
+   "date": "5月20日",
+   "text": "c Command A Plus 语言",
+   "modelId": "command-a-plus-05"
+  },
+  {
+   "date": "5月19日",
+   "text": "Qwen3.7 Max 语言",
+   "modelId": "qwen3.7-max"
+  },
+  {
+   "date": "5月19日",
+   "text": "Gemini 3.5 Flash 语言 API LAB",
+   "modelId": "gemini-3.5-flash"
+  },
+  {
+   "date": "5月9日",
+   "text": "ERNIE 5.1 语言",
+   "modelId": "ernie-5.1"
+  },
+  {
+   "date": "5月5日",
+   "text": "GPT-5.5 Instant 语言",
+   "modelId": "gpt-5.5-instant"
+  },
+  {
+   "date": "4月29日",
+   "text": "m Mistral Medium 3.5 语言",
+   "modelId": "mistral-medium-3.5"
+  },
+  {
+   "date": "4月27日",
+   "text": "Qwen3.6 Flash 语言",
+   "modelId": "qwen3.6-flash"
+  },
+  {
+   "date": "4月24日",
+   "text": "DeepSeek V4 Flash 语言 API LAB",
+   "modelId": "deepseek-v4-flash"
+  },
+  {
+   "date": "4月24日",
+   "text": "DeepSeek V4 Pro 语言 API LAB",
+   "modelId": "deepseek-v4-pro"
+  },
+  {
+   "date": "4月23日",
+   "text": "GPT-5.5 语言 API LAB",
+   "modelId": "gpt-5.5"
+  },
+  {
+   "date": "4月23日",
+   "text": "GPT-5.5 Pro 语言",
+   "modelId": "gpt-5.5-pro"
+  },
+  {
+   "date": "4月23日",
+   "text": "Tencent Hy3 preview 语言",
+   "modelId": "tencent-hy3-preview"
+  },
+  {
+   "date": "4月23日",
+   "text": "Grok Voice Think Fast 1.0 音乐",
+   "modelId": "grok-voice-think-fast-1.0"
+  },
+  {
+   "date": "4月22日",
+   "text": "Qwen3.6 27B 语言",
+   "modelId": "qwen3.6-27b"
+  },
+  {
+   "date": "4月22日",
+   "text": "Gemini Embedding 2 向量与重排 API",
+   "modelId": "gemini-embedding-2"
+  },
+  {
+   "date": "4月22日",
+   "text": "x MiMo-V2.5 语言",
+   "modelId": "mimo-v2.5"
+  },
+  {
+   "date": "4月22日",
+   "text": "x MiMo-V2.5-Pro 语言",
+   "modelId": "mimo-v2.5-pro"
+  },
+  {
+   "date": "4月21日",
+   "text": "gpt-image-2 图像 API DRAW LAB",
+   "modelId": "gpt-image-2"
+  },
+  {
+   "date": "4月20日",
+   "text": "Qwen3.6 Max Preview 语言",
+   "modelId": "qwen3.6-max-preview"
+  },
+  {
+   "date": "4月20日",
+   "text": "Kimi K2.6 语言 API LAB",
+   "modelId": "kimi-k2.6"
+  },
+  {
+   "date": "4月17日",
+   "text": "Grok 4.3 语言",
+   "modelId": "grok-4.3"
+  },
+  {
+   "date": "4月17日",
+   "text": "Grok 4.3 Beta 语言",
+   "modelId": "grok-4.3-beta"
+  },
+  {
+   "date": "4月15日",
+   "text": "Gemini 3.1 Flash TTS Preview 语音合成 API",
+   "modelId": "gemini-3.1-flash-tts-preview"
+  },
+  {
+   "date": "4月15日",
+   "text": "Gemini Flash 3.1 TTS 音乐",
+   "modelId": "gemini-flash-3.1-tts"
+  },
+  {
+   "date": "4月14日",
+   "text": "Qwen3.6 35B-A3B 语言",
+   "modelId": "qwen3.6-35b-a3b"
+  },
+  {
+   "date": "4月14日",
+   "text": "Claude Opus 4.7 语言 API LAB",
+   "modelId": "claude-opus-4-7"
+  },
+  {
+   "date": "4月14日",
+   "text": "Gemini Robotics-ER 1.6 语言 API",
+   "modelId": "gemini-robotics-er-1.6"
+  },
+  {
+   "date": "4月14日",
+   "text": "m MAI-Image-2-Efficient 图像",
+   "modelId": "mai-image-2-efficient"
+  },
+  {
+   "date": "4月14日",
+   "text": "GPT-5.4-Cyber 语言",
+   "modelId": "gpt-5.4-cyber"
+  },
+  {
+   "date": "4月8日",
+   "text": "Muse Spark 语言",
+   "modelId": "muse-spark"
+  },
+  {
+   "date": "4月8日",
+   "text": "Muse Spark 1.1 语言",
+   "modelId": "muse-spark-1.1"
+  },
+  {
+   "date": "4月7日",
+   "text": "Claude Mythos Preview 语言",
+   "modelId": "claude-mythos-preview"
+  },
+  {
+   "date": "4月7日",
+   "text": "GLM-5.1 语言 API LAB",
+   "modelId": "glm-5.1"
+  },
+  {
+   "date": "4月5日",
+   "text": "a MolmoAct 2 语言",
+   "modelId": "molmoact-2"
+  },
+  {
+   "date": "4月3日",
+   "text": "wan2.7-i2v 视频 DRAW",
+   "modelId": "wan2.7-i2v"
+  },
+  {
+   "date": "4月3日",
+   "text": "wan2.7-r2v 语言 DRAW",
+   "modelId": "wan2.7-r2v"
+  },
+  {
+   "date": "4月3日",
+   "text": "wan2.7-t2v 视频 DRAW",
+   "modelId": "wan2.7-t2v"
+  },
+  {
+   "date": "4月3日",
+   "text": "wan2.7-videoedit 视频 DRAW",
+   "modelId": "wan2.7-videoedit"
+  },
+  {
+   "date": "4月2日",
+   "text": "Gemma 4 26B A4B IT 语言",
+   "modelId": "gemma-4-26b-a4b-it"
+  },
+  {
+   "date": "4月2日",
+   "text": "Gemma 4 31B IT 语言",
+   "modelId": "gemma-4-31b-it"
+  },
+  {
+   "date": "4月2日",
+   "text": "m MAI-Transcribe-1 语言",
+   "modelId": "mai-transcribe-1"
+  },
+  {
+   "date": "4月1日",
+   "text": "Qwen3.6 Plus 语言",
+   "modelId": "qwen3.6-plus"
+  },
+  {
+   "date": "4月1日",
+   "text": "wan2.7-image 图像 DRAW",
+   "modelId": "wan2.7-image"
+  },
+  {
+   "date": "4月1日",
+   "text": "wan2.7-image-pro 图像 DRAW",
+   "modelId": "wan2.7-image-pro"
+  },
+  {
+   "date": "4月1日",
+   "text": "GLM-5V-Turbo 语言",
+   "modelId": "glm-5v-turbo"
+  },
+  {
+   "date": "3月31日",
+   "text": "Veo 3.1 lite 视频",
+   "modelId": "veo-3.1-lite-generate-preview"
+  },
+  {
+   "date": "3月29日",
+   "text": "Qwen3.5-Omni-Flash 语言",
+   "modelId": "qwen3.5-omni-flash"
+  },
+  {
+   "date": "3月29日",
+   "text": "Qwen3.5-Omni-Plus 语言",
+   "modelId": "qwen3.5-omni-plus"
+  },
+  {
+   "date": "3月26日",
+   "text": "Gemini 3.1 Flash Live Preview 语言",
+   "modelId": "gemini-3.1-flash-live-preview"
+  },
+  {
+   "date": "3月25日",
+   "text": "Lyria 3 Clip Preview 音乐 API",
+   "modelId": "lyria-3-clip-preview"
+  },
+  {
+   "date": "3月25日",
+   "text": "Lyria 3 Pro Preview 音乐 API",
+   "modelId": "lyria-3-pro-preview"
+  },
+  {
+   "date": "3月19日",
+   "text": "m MAI-Image-2 图像",
+   "modelId": "mai-image-2"
+  },
+  {
+   "date": "3月18日",
+   "text": "MiniMax-M2.7 语言 API LAB",
+   "modelId": "minimax-m2.7"
+  },
+  {
+   "date": "3月18日",
+   "text": "MiniMax-M2.7-highspeed 语言",
+   "modelId": "minimax-m2.7-highspeed"
+  },
+  {
+   "date": "3月18日",
+   "text": "x MiMo-V2-Omni 语言",
+   "modelId": "mimo-v2-omni"
+  },
+  {
+   "date": "3月18日",
+   "text": "x MiMo-V2-Pro 语言",
+   "modelId": "mimo-v2-pro"
+  },
+  {
+   "date": "3月17日",
+   "text": "GPT-5.4 mini 语言 API LAB",
+   "modelId": "gpt-5.4-mini"
+  },
+  {
+   "date": "3月17日",
+   "text": "GPT-5.4 nano 语言 API LAB",
+   "modelId": "gpt-5.4-nano"
+  },
+  {
+   "date": "3月16日",
+   "text": "m Mistral Small 4 语言",
+   "modelId": "mistral-small-4"
+  },
+  {
+   "date": "3月16日",
+   "text": "GLM-5-Turbo 语言",
+   "modelId": "glm-5-turbo"
+  },
+  {
+   "date": "3月11日",
+   "text": "n Nemotron 3 Super 语言",
+   "modelId": "nemotron-3-super"
+  },
+  {
+   "date": "3月9日",
+   "text": "Grok 4.20 (Non-Reasoning) 语言",
+   "modelId": "grok-4.20-0309-non-reasoning"
+  },
+  {
+   "date": "3月9日",
+   "text": "Grok 4.20 (Reasoning) 语言",
+   "modelId": "grok-4.20-0309-reasoning"
+  },
+  {
+   "date": "3月9日",
+   "text": "Grok 4.20 Multi-Agent 语言",
+   "modelId": "grok-4.20-multi-agent"
+  },
+  {
+   "date": "3月5日",
+   "text": "GPT-5.4 语言 API LAB",
+   "modelId": "gpt-5.4"
+  },
+  {
+   "date": "3月5日",
+   "text": "GPT-5.4 Pro 语言 API LAB",
+   "modelId": "gpt-5.4-pro"
+  },
+  {
+   "date": "3月3日",
+   "text": "Gemini 3.0 Flash-lite 语言",
+   "modelId": "gemini-3.0-flash-lite"
+  },
+  {
+   "date": "3月3日",
+   "text": "Gemini 3.1 Flash Lite Preview 语言 API LAB",
+   "modelId": "gemini-3.1-flash-lite-preview"
+  },
+  {
+   "date": "3月3日",
+   "text": "GPT-5.3 Chat (latest) 语言",
+   "modelId": "gpt-5.3-chat"
+  },
+  {
+   "date": "3月1日",
+   "text": "Step TTS 2 语音合成",
+   "modelId": "step-tts-2"
+  },
+  {
+   "date": "2月24日",
+   "text": "Qwen3.5-0.8B 语言",
+   "modelId": "qwen3.5-0.8b"
+  },
+  {
+   "date": "2月24日",
+   "text": "Qwen3.5-2B 语言",
+   "modelId": "qwen3.5-2b"
+  },
+  {
+   "date": "2月24日",
+   "text": "Qwen3.5-4B 语言",
+   "modelId": "qwen3.5-4b"
+  },
+  {
+   "date": "2月24日",
+   "text": "Qwen3.5-9B 语言",
+   "modelId": "qwen3.5-9b"
+  },
+  {
+   "date": "2月23日",
+   "text": "Qwen3.5 122B-A10B 语言",
+   "modelId": "qwen3.5-122b-a10b"
+  },
+  {
+   "date": "2月23日",
+   "text": "Qwen3.5 27B 语言",
+   "modelId": "qwen3.5-27b"
+  },
+  {
+   "date": "2月23日",
+   "text": "Qwen3.5 35B-A3B 语言",
+   "modelId": "qwen3.5-35b-a3b"
+  },
+  {
+   "date": "2月23日",
+   "text": "Qwen3.5 Flash 语言",
+   "modelId": "qwen3.5-flash"
+  },
+  {
+   "date": "2月23日",
+   "text": "gpt-audio-1.5 语言",
+   "modelId": "gpt-audio-1.5"
+  },
+  {
+   "date": "2月23日",
+   "text": "gpt-realtime-1.5 语言",
+   "modelId": "gpt-realtime-1.5"
+  },
+  {
+   "date": "2月19日",
+   "text": "Gemini 3.1 Pro Preview 语言 API LAB",
+   "modelId": "gemini-3.1-pro-preview"
+  },
+  {
+   "date": "2月19日",
+   "text": "Gemini 3.1 Pro Preview Custom Tools 语言 API LAB",
+   "modelId": "gemini-3.1-pro-preview-customtools"
+  },
+  {
+   "date": "2月17日",
+   "text": "Claude Sonnet 4.6 语言 API LAB",
+   "modelId": "claude-sonnet-4-6"
+  },
+  {
+   "date": "2月17日",
+   "text": "Grok 4.20 语言",
+   "modelId": "grok-4.20"
+  },
+  {
+   "date": "2月16日",
+   "text": "Qwen3.5 Plus 语言 API LAB",
+   "modelId": "qwen3.5-plus"
+  },
+  {
+   "date": "2月15日",
+   "text": "Qwen3.5 397B-A17B 语言",
+   "modelId": "qwen3.5-397b-a17b"
+  },
+  {
+   "date": "2月14日",
+   "text": "Seed 2.0 Code 语言 API LAB",
+   "modelId": "doubao-seed-2-0-code-preview"
+  },
+  {
+   "date": "2月14日",
+   "text": "Seed 2.0 Lite 语言 API LAB",
+   "modelId": "doubao-seed-2-0-lite"
+  },
+  {
+   "date": "2月14日",
+   "text": "Seed 2.0 Mini 语言 API LAB",
+   "modelId": "doubao-seed-2-0-mini"
+  },
+  {
+   "date": "2月14日",
+   "text": "Seed 2.0 Pro 语言 API LAB",
+   "modelId": "doubao-seed-2-0-pro"
+  },
+  {
+   "date": "2月13日",
+   "text": "Seedream 5.0 图像 API DRAW LAB",
+   "modelId": "doubao-seedream-5-0"
+  },
+  {
+   "date": "2月13日",
+   "text": "MiniMax-M2.5-highspeed 语言",
+   "modelId": "minimax-m2.5-highspeed"
+  },
+  {
+   "date": "2月12日",
+   "text": "Seedance 2.0 视频 API DRAW LAB",
+   "modelId": "doubao-seedance-2-0"
+  },
+  {
+   "date": "2月12日",
+   "text": "Seedance 2.0 Fast 视频 API DRAW LAB",
+   "modelId": "doubao-seedance-2-0-fast"
+  },
+  {
+   "date": "2月12日",
+   "text": "MiniMax-M2.5 语言 API LAB",
+   "modelId": "minimax-m2.5"
+  },
+  {
+   "date": "2月12日",
+   "text": "GLM-5 语言 API LAB",
+   "modelId": "glm-5"
+  },
+  {
+   "date": "2月5日",
+   "text": "Kling 3.0 视频 API DRAW LAB",
+   "modelId": "kling-3.0"
+  },
+  {
+   "date": "2月5日",
+   "text": "Kling 3.0 Omni 视频 API DRAW LAB",
+   "modelId": "kling-3.0-omni"
+  },
+  {
+   "date": "2月5日",
+   "text": "GPT-5.3 Codex 语言",
+   "modelId": "gpt-5.3-codex"
+  },
+  {
+   "date": "2月5日",
+   "text": "GPT-5.3 Codex Spark 语言",
+   "modelId": "gpt-5.3-codex-spark"
+  },
+  {
+   "date": "2月4日",
+   "text": "Claude Opus 4.6 语言 API LAB",
+   "modelId": "claude-opus-4-6"
+  },
+  {
+   "date": "2月2日",
+   "text": "Qwen3-Coder-Next 语言",
+   "modelId": "qwen3-coder-next"
+  },
+  {
+   "date": "2月2日",
+   "text": "kimi-k2.5 语言 API LAB",
+   "modelId": "kimi-k2.5"
+  },
+  {
+   "date": "1月29日",
+   "text": "wan2.6-r2v-flash 语言 DRAW",
+   "modelId": "wan2.6-r2v-flash"
+  },
+  {
+   "date": "1月29日",
+   "text": "Step 3.5 Flash 语言",
+   "modelId": "step-3.5-flash"
+  },
+  {
+   "date": "1月28日",
+   "text": "Grok Imagine Image 图像 API DRAW LAB",
+   "modelId": "grok-imagine-image"
+  },
+  {
+   "date": "1月28日",
+   "text": "Grok Imagine Video 视频 API DRAW LAB",
+   "modelId": "grok-imagine-video"
+  },
+  {
+   "date": "1月27日",
+   "text": "s viduq3-pro 视频",
+   "modelId": "viduq3-pro"
+  },
+  {
+   "date": "1月19日",
+   "text": "GLM-4.7-Flash 语言",
+   "modelId": "glm-4.7-flash"
+  },
+  {
+   "date": "1月19日",
+   "text": "GLM-4.7-FlashX 语言",
+   "modelId": "glm-4.7-flashx"
+  },
+  {
+   "date": "1月8日",
+   "text": "a Jamba Mini 语言",
+   "modelId": "jamba-mini"
+  },
+  {
+   "date": "12月23日",
+   "text": "MiniMax-M2.1 语言",
+   "modelId": "minimax-m2.1"
+  },
+  {
+   "date": "12月22日",
+   "text": "GLM-4.7 语言",
+   "modelId": "glm-4.7"
+  },
+  {
+   "date": "12月18日",
+   "text": "Seed 1.8 语言",
+   "modelId": "doubao-seed-1-8"
+  },
+  {
+   "date": "12月18日",
+   "text": "GPT-5.2 Codex 语言",
+   "modelId": "gpt-5.2-codex"
+  },
+  {
+   "date": "12月17日",
+   "text": "Gemini 3 Flash Preview 语言 API LAB",
+   "modelId": "gemini-3-flash-preview"
+  },
+  {
+   "date": "12月16日",
+   "text": "wan2.6-r2v 语言 DRAW",
+   "modelId": "wan2.6-r2v"
+  },
+  {
+   "date": "12月16日",
+   "text": "jimeng-video-3.5-pro 视频 DRAW",
+   "modelId": "jimeng-video-3.5-pro"
+  },
+  {
+   "date": "12月16日",
+   "text": "x MiMo-V2-Flash 语言",
+   "modelId": "mimo-v2-flash"
+  },
+  {
+   "date": "12月15日",
+   "text": "n Nemotron 3-Nano-30B-A3B 语言",
+   "modelId": "nemotron-3-nano-30b-a3b"
+  },
+  {
+   "date": "12月15日",
+   "text": "n Nemotron-Cascade 14B 语言",
+   "modelId": "nemotron-cascade-14b"
+  },
+  {
+   "date": "12月11日",
+   "text": "GPT-5.2 语言 API LAB",
+   "modelId": "gpt-5.2"
+  },
+  {
+   "date": "12月11日",
+   "text": "GPT-5.2 Pro 语言",
+   "modelId": "gpt-5.2-pro"
+  },
+  {
+   "date": "12月9日",
+   "text": "m Devstral 2 (123B) 语言",
+   "modelId": "devstral-2"
+  },
+  {
+   "date": "12月9日",
+   "text": "m Devstral Small 2 语言",
+   "modelId": "devstral-small-2"
+  },
+  {
+   "date": "12月8日",
+   "text": "GLM-4.6V 语言",
+   "modelId": "glm-4.6v"
+  },
+  {
+   "date": "12月8日",
+   "text": "GLM-4.6V-Flash 语言",
+   "modelId": "glm-4.6v-flash"
+  },
+  {
+   "date": "12月3日",
+   "text": "wan2.6-i2v 视频 DRAW",
+   "modelId": "wan2.6-i2v"
+  },
+  {
+   "date": "12月3日",
+   "text": "wan2.6-t2v 视频 DRAW",
+   "modelId": "wan2.6-t2v"
+  },
+  {
+   "date": "12月3日",
+   "text": "a Nova 2 Pro 语言",
+   "modelId": "nova-2-pro-v1"
+  },
+  {
+   "date": "12月3日",
+   "text": "seedream-4-5 图像 DRAW",
+   "modelId": "seedream-4-5"
+  },
+  {
+   "date": "12月3日",
+   "text": "Kling 2.6 视频 API DRAW LAB",
+   "modelId": "kling-2.6"
+  },
+  {
+   "date": "12月2日",
+   "text": "a Nova 2 Lite 语言",
+   "modelId": "nova-2-lite-v1"
+  },
+  {
+   "date": "12月2日",
+   "text": "a Nova 2 Pro (Preview) 语言",
+   "modelId": "nova-2-pro"
+  },
+  {
+   "date": "12月2日",
+   "text": "a Nova 2.0 Pro Preview 语言",
+   "modelId": "nova-2.0-pro-preview"
+  },
+  {
+   "date": "12月2日",
+   "text": "m Ministral 3 14B 语言",
+   "modelId": "ministral-14b"
+  },
+  {
+   "date": "12月2日",
+   "text": "m Ministral 3 14B 语言",
+   "modelId": "ministral-3-14b"
+  },
+  {
+   "date": "12月2日",
+   "text": "m Ministral 3 3B 语言",
+   "modelId": "ministral-3-3b"
+  },
+  {
+   "date": "12月2日",
+   "text": "m Ministral 3 8B 语言",
+   "modelId": "ministral-3-8b"
+  },
+  {
+   "date": "12月2日",
+   "text": "m Mistral Large 3 语言",
+   "modelId": "mistral-large-3"
+  },
+  {
+   "date": "12月1日",
+   "text": "Kling O1 视频 API DRAW LAB",
+   "modelId": "kling-o1"
+  },
+  {
+   "date": "12月1日",
+   "text": "r Runway Gen-4.5 视频",
+   "modelId": "runway-gen-4.5"
+  },
+  {
+   "date": "11月27日",
+   "text": "DeepSeekMath-V2 语言",
+   "modelId": "deepseekmath-v2"
+  },
+  {
+   "date": "11月25日",
+   "text": "b FLUX.2 图像",
+   "modelId": "flux.2"
+  },
+  {
+   "date": "11月25日",
+   "text": "gpt-image-1.5 图像 API DRAW",
+   "modelId": "gpt-image-1.5"
+  },
+  {
+   "date": "11月24日",
+   "text": "Claude Opus 4.5 (latest) 语言 API LAB",
+   "modelId": "claude-opus-4-5"
+  },
+  {
+   "date": "11月20日",
+   "text": "Nano Banana Pro 图像 API DRAW LAB",
+   "modelId": "gemini-3-pro-image-preview"
+  },
+  {
+   "date": "11月19日",
+   "text": "GPT-5.1-Codex-Max 语言",
+   "modelId": "gpt-5.1-codex-max"
+  },
+  {
+   "date": "11月19日",
+   "text": "Grok 4.1 Fast 语言",
+   "modelId": "grok-4.1-fast"
+  },
+  {
+   "date": "11月18日",
+   "text": "Gemini 3 Deep Think 语言",
+   "modelId": "gemini-3-deep-think"
+  },
+  {
+   "date": "11月18日",
+   "text": "gemini-3-pro-preview 语言 API LAB",
+   "modelId": "gemini-3-pro-preview"
+  },
+  {
+   "date": "11月17日",
+   "text": "grok-4.1 语言 API LAB",
+   "modelId": "grok-4.1"
+  },
+  {
+   "date": "11月13日",
+   "text": "GPT-5.1 语言 API LAB",
+   "modelId": "gpt-5.1"
+  },
+  {
+   "date": "11月13日",
+   "text": "GPT-5.1 Instant 语言",
+   "modelId": "gpt-5.1-instant"
+  },
+  {
+   "date": "11月12日",
+   "text": "gpt-5.1-codex 语言 LAB",
+   "modelId": "gpt-5.1-codex"
+  },
+  {
+   "date": "11月12日",
+   "text": "GPT-5.1-Codex-mini 语言",
+   "modelId": "gpt-5.1-codex-mini"
+  },
+  {
+   "date": "10月30日",
+   "text": "qwen-image-edit-plus 图像",
+   "modelId": "qwen-image-edit-plus"
+  },
+  {
+   "date": "10月30日",
+   "text": "Kimi Linear 语言",
+   "modelId": "kimi-linear"
+  },
+  {
+   "date": "10月28日",
+   "text": "Tongyi DeepResearch 语言",
+   "modelId": "tongyi-deepresearch"
+  },
+  {
+   "date": "10月27日",
+   "text": "qwen3-asr-flash-realtime 语音识别",
+   "modelId": "qwen3-asr-flash-realtime"
+  },
+  {
+   "date": "10月27日",
+   "text": "MiniMax-M2 语言",
+   "modelId": "minimax-m2"
+  },
+  {
+   "date": "10月21日",
+   "text": "Qwen3-VL-32B 语言",
+   "modelId": "qwen3-vl-32b"
+  },
+  {
+   "date": "10月21日",
+   "text": "deepseek-ocr 语言 API LAB",
+   "modelId": "deepseek-ocr"
+  },
+  {
+   "date": "10月21日",
+   "text": "s viduq2 视频",
+   "modelId": "viduq2"
+  },
+  {
+   "date": "10月15日",
+   "text": "Qwen3-VL-4B 语言",
+   "modelId": "qwen3-vl-4b"
+  },
+  {
+   "date": "10月15日",
+   "text": "Qwen3-VL-8B 语言",
+   "modelId": "qwen3-vl-8b"
+  },
+  {
+   "date": "10月15日",
+   "text": "Claude Haiku 4.5 (latest) 语言 API LAB",
+   "modelId": "claude-haiku-4-5"
+  },
+  {
+   "date": "10月15日",
+   "text": "Veo 3.1 视频 API DRAW",
+   "modelId": "veo3.1"
+  },
+  {
+   "date": "10月14日",
+   "text": "qwen3-vl-flash 语言 API LAB",
+   "modelId": "qwen3-vl-flash"
+  },
+  {
+   "date": "10月13日",
+   "text": "m MAI-Image-1 图像",
+   "modelId": "mai-image-1"
+  },
+  {
+   "date": "10月11日",
+   "text": "C2S-Scale 语言",
+   "modelId": "c2s-scale"
+  },
+  {
+   "date": "10月8日",
+   "text": "Grok Imagine 视频",
+   "modelId": "grok-imagine"
+  },
+  {
+   "date": "10月7日",
+   "text": "Gemini 2.5 Computer Use 语言",
+   "modelId": "gemini-2.5-computer-use"
+  },
+  {
+   "date": "10月7日",
+   "text": "Gemini 2.5 Computer Use Preview 10-2025 语言",
+   "modelId": "gemini-2.5-computer-use-preview-10"
+  },
+  {
+   "date": "10月6日",
+   "text": "GPT-5 Pro 语言 API LAB",
+   "modelId": "gpt-5-pro"
+  },
+  {
+   "date": "10月",
+   "text": "gpt-4o-transcribe-diarize 语音识别 API",
+   "modelId": "gpt-4o-transcribe-diarize"
+  },
+  {
+   "date": "9月30日",
+   "text": "Sora 2.0 视频",
+   "modelId": "sora-2.0"
+  },
+  {
+   "date": "9月30日",
+   "text": "GLM-4.6 语言",
+   "modelId": "glm-4.6"
+  },
+  {
+   "date": "9月29日",
+   "text": "Claude Sonnet 4.5 (latest) 语言 API LAB",
+   "modelId": "claude-sonnet-4-5"
+  },
+  {
+   "date": "9月29日",
+   "text": "deepseek-v3.2 语言 API LAB",
+   "modelId": "deepseek-v3.2"
+  },
+  {
+   "date": "9月29日",
+   "text": "n Cosmos-Predict2.5 2B 视频",
+   "modelId": "cosmos-predict2.5-2b"
+  },
+  {
+   "date": "9月29日",
+   "text": "n Cosmos-Transfer2.5-2B 视频",
+   "modelId": "cosmos-transfer2.5-2b"
+  },
+  {
+   "date": "9月28日",
+   "text": "Seedream 4.0 图像 DRAW",
+   "modelId": "seedream-4-0"
+  },
+  {
+   "date": "9月26日",
+   "text": "Kling 2.5 Turbo 视频 API DRAW LAB",
+   "modelId": "kling-2.5-turbo"
+  },
+  {
+   "date": "9月26日",
+   "text": "gpt-image-1-mini 图像",
+   "modelId": "gpt-image-1-mini"
+  },
+  {
+   "date": "9月25日",
+   "text": "Gemini Robotics-ER 1.5 语言 API",
+   "modelId": "gemini-robotics-er-1.5"
+  },
+  {
+   "date": "9月25日",
+   "text": "Suno v5 音乐",
+   "modelId": "suno-v5"
+  },
+  {
+   "date": "9月24日",
+   "text": "s viduq2-pro 视频",
+   "modelId": "viduq2-pro"
+  },
+  {
+   "date": "9月24日",
+   "text": "s viduq2-turbo 视频",
+   "modelId": "viduq2-turbo"
+  },
+  {
+   "date": "9月23日",
+   "text": "Qwen3-VL Plus 语言 API LAB",
+   "modelId": "qwen3-vl-plus"
+  },
+  {
+   "date": "9月22日",
+   "text": "Qwen3-LiveTranslate Flash Realtime 语言",
+   "modelId": "qwen3-livetranslate-flash-realtime"
+  },
+  {
+   "date": "9月22日",
+   "text": "Qwen3-Omni-30B-A3B 语言",
+   "modelId": "qwen3-omni-30b-a3b"
+  },
+  {
+   "date": "9月22日",
+   "text": "qwen3-s2s-flash-realtime 语言",
+   "modelId": "qwen3-s2s-flash-realtime"
+  },
+  {
+   "date": "9月22日",
+   "text": "DeepSeek-V3.1-Terminus 语言",
+   "modelId": "deepseek-v3.1-terminus"
+  },
+  {
+   "date": "9月19日",
+   "text": "wan2.2-animate-move 语言 DRAW",
+   "modelId": "wan2.2-animate-move"
+  },
+  {
+   "date": "9月19日",
+   "text": "wan2.5-i2v-preview 视频 DRAW",
+   "modelId": "wan2.5-i2v-preview"
+  },
+  {
+   "date": "9月19日",
+   "text": "wan2.5-t2v-preview 视频 DRAW",
+   "modelId": "wan2.5-t2v-preview"
+  },
+  {
+   "date": "9月19日",
+   "text": "Grok 4 Fast 语言",
+   "modelId": "grok-4-fast"
+  },
+  {
+   "date": "9月18日",
+   "text": "m Magistral Medium 1.2 语言",
+   "modelId": "magistral-medium-1.2"
+  },
+  {
+   "date": "9月18日",
+   "text": "m Magistral Small 1.2 语言",
+   "modelId": "magistral-small-1.2"
+  },
+  {
+   "date": "9月16日",
+   "text": "AgentFounder-30B 语言",
+   "modelId": "agentfounder-30b"
+  },
+  {
+   "date": "9月16日",
+   "text": "Qwen3 TTS Flash 语音合成 API LAB",
+   "modelId": "qwen3-tts-flash"
+  },
+  {
+   "date": "9月16日",
+   "text": "qwen3-tts-flash-realtime 语音合成",
+   "modelId": "qwen3-tts-flash-realtime"
+  },
+  {
+   "date": "9月15日",
+   "text": "Qwen3-Omni Flash 语言 API LAB",
+   "modelId": "qwen3-omni-flash"
+  },
+  {
+   "date": "9月15日",
+   "text": "Qwen3-Omni Flash Realtime 语言 API",
+   "modelId": "qwen3-omni-flash-realtime"
+  },
+  {
+   "date": "9月15日",
+   "text": "GPT-5-Codex 语言",
+   "modelId": "gpt-5-codex"
+  },
+  {
+   "date": "9月12日",
+   "text": "wan2.2-kf2v-flash 语言 DRAW",
+   "modelId": "wan2.2-kf2v-flash"
+  },
+  {
+   "date": "9月8日",
+   "text": "Qwen3-ASR Flash 语音识别",
+   "modelId": "qwen3-asr-flash"
+  },
+  {
+   "date": "9月5日",
+   "text": "Qwen3 Max 语言 API LAB",
+   "modelId": "qwen3-max"
+  },
+  {
+   "date": "9月5日",
+   "text": "EmbeddingGemma 向量与重排",
+   "modelId": "embeddinggemma"
+  },
+  {
+   "date": "9月",
+   "text": "Qwen3-Next 80B-A3B Instruct 语言 API LAB",
+   "modelId": "qwen3-next-80b-a3b-instruct"
+  },
+  {
+   "date": "8月28日",
+   "text": "c Command A Translate 语言",
+   "modelId": "command-a-translate-08"
+  },
+  {
+   "date": "8月28日",
+   "text": "m MAI-Voice-1 语音合成",
+   "modelId": "mai-voice-1"
+  },
+  {
+   "date": "8月28日",
+   "text": "gpt-audio 语言 API LAB",
+   "modelId": "gpt-audio"
+  },
+  {
+   "date": "8月28日",
+   "text": "gpt-realtime 语言 API",
+   "modelId": "gpt-realtime"
+  },
+  {
+   "date": "8月28日",
+   "text": "Grok Code Fast 1 语言",
+   "modelId": "grok-code-fast-1"
+  },
+  {
+   "date": "8月26日",
+   "text": "Wan 2.2 14B S2V 视频",
+   "modelId": "wan-2.2-14b-s2v"
+  },
+  {
+   "date": "8月26日",
+   "text": "Nano Banana 图像 API DRAW LAB",
+   "modelId": "gemini-2.5-flash-image"
+  },
+  {
+   "date": "8月21日",
+   "text": "Seed-OSS-36B-Base 语言",
+   "modelId": "seed-oss-36b-base"
+  },
+  {
+   "date": "8月21日",
+   "text": "c Cohere Command A Reasoning 语言",
+   "modelId": "cohere-command-a-reasoning"
+  },
+  {
+   "date": "8月21日",
+   "text": "c Command A Reasoning 语言",
+   "modelId": "command-a-reasoning-08"
+  },
+  {
+   "date": "8月21日",
+   "text": "deepseek-v3.1 语言 API LAB",
+   "modelId": "deepseek-v3.1"
+  },
+  {
+   "date": "8月18日",
+   "text": "Qwen Image Edit 图像",
+   "modelId": "qwen-image-edit"
+  },
+  {
+   "date": "8月18日",
+   "text": "n NVIDIA-Nemotron-Nano-12B-v2 语言",
+   "modelId": "nvidia-nemotron-nano-12b-v2"
+  },
+  {
+   "date": "8月18日",
+   "text": "n NVIDIA-Nemotron-Nano-9B-v2 语言",
+   "modelId": "nvidia-nemotron-nano-9b-v2"
+  },
+  {
+   "date": "8月15日",
+   "text": "Ovis2.5 2B 语言",
+   "modelId": "ovis2.5-2b"
+  },
+  {
+   "date": "8月15日",
+   "text": "Ovis2.5 9B 语言",
+   "modelId": "ovis2.5-9b"
+  },
+  {
+   "date": "8月15日",
+   "text": "Seed 1.6 Vision 语言",
+   "modelId": "doubao-seed-1-6-vision"
+  },
+  {
+   "date": "8月15日",
+   "text": "imagen 4 fast 图像",
+   "modelId": "imagen-4-fast"
+  },
+  {
+   "date": "8月15日",
+   "text": "GLM-4.1V-Thinking 语言",
+   "modelId": "glm-4.1v-thinking"
+  },
+  {
+   "date": "8月14日",
+   "text": "Gemma 3 270M 语言",
+   "modelId": "gemma-3-270m"
+  },
+  {
+   "date": "8月14日",
+   "text": "n Canary 1B v2 语音识别",
+   "modelId": "canary-1b-v2"
+  },
+  {
+   "date": "8月14日",
+   "text": "n Parakeet-tdt-0.6b-v3 语音识别",
+   "modelId": "parakeet-tdt-0.6b-v3"
+  },
+  {
+   "date": "8月12日",
+   "text": "m Mistral Medium 3.1 语言",
+   "modelId": "mistral-medium-3.1"
+  },
+  {
+   "date": "8月11日",
+   "text": "wan2.2-i2v-flash 视频 DRAW",
+   "modelId": "wan2.2-i2v-flash"
+  },
+  {
+   "date": "8月11日",
+   "text": "GLM-4.5V 语言",
+   "modelId": "glm-4.5v"
+  },
+  {
+   "date": "8月7日",
+   "text": "i Ideogram Character 图像",
+   "modelId": "ideogram-character"
+  },
+  {
+   "date": "8月7日",
+   "text": "GPT-5 语言 API LAB",
+   "modelId": "gpt-5"
+  },
+  {
+   "date": "8月7日",
+   "text": "GPT-5 Mini 语言 API LAB",
+   "modelId": "gpt-5-mini"
+  },
+  {
+   "date": "8月7日",
+   "text": "GPT-5 Nano 语言 API LAB",
+   "modelId": "gpt-5-nano"
+  },
+  {
+   "date": "8月5日",
+   "text": "Claude Opus 4.1 语言",
+   "modelId": "claude-opus-4.1"
+  },
+  {
+   "date": "8月5日",
+   "text": "gpt-oss-120b 语言 API LAB",
+   "modelId": "gpt-oss-120b"
+  },
+  {
+   "date": "8月5日",
+   "text": "gpt-oss-20b 语言 API LAB",
+   "modelId": "gpt-oss-20b"
+  },
+  {
+   "date": "8月4日",
+   "text": "Qwen Image 图像",
+   "modelId": "qwen-image"
+  },
+  {
+   "date": "8月4日",
+   "text": "Seed Diffusion Preview 语言",
+   "modelId": "seed-diffusion-preview"
+  },
+  {
+   "date": "8月1日",
+   "text": "Gemini 2.5 Deep Think 语言",
+   "modelId": "gemini-2.5-deep-think"
+  },
+  {
+   "date": "7月31日",
+   "text": "c Command A Vision 语言",
+   "modelId": "command-a-vision"
+  },
+  {
+   "date": "7月31日",
+   "text": "c Command A Vision 语言",
+   "modelId": "command-a-vision-07"
+  },
+  {
+   "date": "7月31日",
+   "text": "Veo 3 Fast 视频 DRAW",
+   "modelId": "veo3-fast"
+  },
+  {
+   "date": "7月29日",
+   "text": "n Llama Nemotron Super v1.5 语言",
+   "modelId": "llama-nemotron-super-v1.5"
+  },
+  {
+   "date": "7月28日",
+   "text": "Qwen Flash 语言 API LAB",
+   "modelId": "qwen-flash"
+  },
+  {
+   "date": "7月28日",
+   "text": "Qwen3 Coder Flash 语言 API LAB",
+   "modelId": "qwen3-coder-flash"
+  },
+  {
+   "date": "7月28日",
+   "text": "Wan 2.2 14B I2V 视频",
+   "modelId": "wan-2.2-14b-i2v"
+  },
+  {
+   "date": "7月28日",
+   "text": "Wan 2.2 14B T2V 视频",
+   "modelId": "wan-2.2-14b-t2v"
+  },
+  {
+   "date": "7月28日",
+   "text": "wan2.2-i2v-plus 视频 DRAW",
+   "modelId": "wan2.2-i2v-plus"
+  },
+  {
+   "date": "7月28日",
+   "text": "wan2.2-t2v-plus 视频 DRAW",
+   "modelId": "wan2.2-t2v-plus"
+  },
+  {
+   "date": "7月28日",
+   "text": "GLM-4.5 语言 API LAB",
+   "modelId": "glm-4.5"
+  },
+  {
+   "date": "7月28日",
+   "text": "GLM-4.5-Air 语言",
+   "modelId": "glm-4.5-air"
+  },
+  {
+   "date": "7月28日",
+   "text": "GLM-4.5-Flash 语言",
+   "modelId": "glm-4.5-flash"
+  },
+  {
+   "date": "7月24日",
+   "text": "m Magistral Small 1.1 语言",
+   "modelId": "magistral-small-1.1"
+  },
+  {
+   "date": "7月23日",
+   "text": "Qwen3 Coder Plus 语言 API LAB",
+   "modelId": "qwen3-coder-plus"
+  },
+  {
+   "date": "7月23日",
+   "text": "Aeneas 语言",
+   "modelId": "aeneas"
+  },
+  {
+   "date": "7月17日",
+   "text": "ChatGPT agent 语言",
+   "modelId": "chatgpt-agent"
+  },
+  {
+   "date": "7月17日",
+   "text": "Suno v4.5+ 音乐 LAB",
+   "modelId": "chirp-v4-5+"
+  },
+  {
+   "date": "7月16日",
+   "text": "n OpenReasoning-Nemotron-32B 语言",
+   "modelId": "openreasoning-nemotron-32b"
+  },
+  {
+   "date": "7月15日",
+   "text": "m Voxtral Mini 语言",
+   "modelId": "voxtral-mini"
+  },
+  {
+   "date": "7月15日",
+   "text": "m Voxtral Small 语言",
+   "modelId": "voxtral-small"
+  },
+  {
+   "date": "7月11日",
+   "text": "kimi-k2-0711-preview 语言 API LAB",
+   "modelId": "kimi-k2-instruct"
+  },
+  {
+   "date": "7月9日",
+   "text": "grok-4 语言 API LAB",
+   "modelId": "grok-4"
+  },
+  {
+   "date": "7月3日",
+   "text": "a Jamba Large 语言",
+   "modelId": "jamba-large"
+  },
+  {
+   "date": "7月",
+   "text": "jimeng-3.1 图像 DRAW",
+   "modelId": "jimeng-3.1"
+  },
+  {
+   "date": "6月29日",
+   "text": "ERNIE-4.5-0.3B 语言",
+   "modelId": "ernie-4.5-0.3b"
+  },
+  {
+   "date": "6月29日",
+   "text": "ERNIE-4.5-21B-A3B 语言",
+   "modelId": "ernie-4.5-21b-a3b"
+  },
+  {
+   "date": "6月29日",
+   "text": "ERNIE-4.5-300B-A47B 语言",
+   "modelId": "ernie-4.5-300b-a47b"
+  },
+  {
+   "date": "6月29日",
+   "text": "ERNIE-4.5-VL-28B-A3B 语言",
+   "modelId": "ernie-4.5-vl-28b-a3b"
+  },
+  {
+   "date": "6月26日",
+   "text": "b FLUX.1 Kontext [dev] 图像",
+   "modelId": "flux.1-kontext-dev"
+  },
+  {
+   "date": "6月23日",
+   "text": "Kimi-VL 语言",
+   "modelId": "kimi-vl"
+  },
+  {
+   "date": "6月20日",
+   "text": "m Mistral Small 4 语言",
+   "modelId": "mistral-small"
+  },
+  {
+   "date": "6月18日",
+   "text": "video-SALMONN 2+ 语言",
+   "modelId": "video-salmonn-2+"
+  },
+  {
+   "date": "6月18日",
+   "text": "m midjourney-video 视频 DRAW",
+   "modelId": "midjourney-video"
+  },
+  {
+   "date": "6月18日",
+   "text": "Minimax Hailuo 02 视频",
+   "modelId": "minimax-hailuo-02"
+  },
+  {
+   "date": "6月16日",
+   "text": "Kimi Dev 72b 语言",
+   "modelId": "kimi-dev-72b"
+  },
+  {
+   "date": "6月15日",
+   "text": "Seed 1.6 Flash 语言",
+   "modelId": "doubao-seed-1-6-flash"
+  },
+  {
+   "date": "6月15日",
+   "text": "Gemini 2.5 Flash-Lite 语言 API LAB",
+   "modelId": "gemini-2.5-flash-lite"
+  },
+  {
+   "date": "6月15日",
+   "text": "m Mistral Small 3.2 语言",
+   "modelId": "mistral-small-3.2"
+  },
+  {
+   "date": "6月13日",
+   "text": "MiniMax-M1-40k 语言",
+   "modelId": "minimax-m1-40k"
+  },
+  {
+   "date": "6月12日",
+   "text": "m CollabLLM 语言",
+   "modelId": "collabllm"
+  },
+  {
+   "date": "6月11日",
+   "text": "Seed 1.6 语言",
+   "modelId": "doubao-seed-1-6"
+  },
+  {
+   "date": "6月11日",
+   "text": "V-JEPA 2 视频",
+   "modelId": "v-jepa-2"
+  },
+  {
+   "date": "6月11日",
+   "text": "n Cosmos-Predict2-14B-Text2Image 图像",
+   "modelId": "cosmos-predict2-14b-text2image"
+  },
+  {
+   "date": "6月11日",
+   "text": "n Cosmos-Predict2-14B-Video2World 视频",
+   "modelId": "cosmos-predict2-14b-video2world"
+  },
+  {
+   "date": "6月11日",
+   "text": "n Cosmos-Predict2-2B-Text2Image 图像",
+   "modelId": "cosmos-predict2-2b-text2image"
+  },
+  {
+   "date": "6月11日",
+   "text": "n Cosmos-Predict2-2B-Video2World 视频",
+   "modelId": "cosmos-predict2-2b-video2world"
+  },
+  {
+   "date": "6月10日",
+   "text": "Seedance 1.0 视频",
+   "modelId": "seedance-1.0"
+  },
+  {
+   "date": "6月10日",
+   "text": "m Devstral 2 语言",
+   "modelId": "devstral"
+  },
+  {
+   "date": "6月10日",
+   "text": "m Magistral Medium 1.1 语言",
+   "modelId": "magistral-medium-1.1"
+  },
+  {
+   "date": "6月10日",
+   "text": "m Magistral Small 1.0 语言",
+   "modelId": "magistral-small-1.0"
+  },
+  {
+   "date": "6月10日",
+   "text": "o3-pro 语言 API LAB",
+   "modelId": "o3-pro"
+  },
+  {
+   "date": "6月5日",
+   "text": "Qwen3 Embedding 向量与重排",
+   "modelId": "qwen3-embedding"
+  },
+  {
+   "date": "6月5日",
+   "text": "Qwen3 Reranker 向量与重排",
+   "modelId": "qwen3-reranker"
+  },
+  {
+   "date": "6月5日",
+   "text": "x MiMo-7B-Base 语言",
+   "modelId": "mimo-7b-base"
+  },
+  {
+   "date": "6月4日",
+   "text": "Seed-Coder 语言",
+   "modelId": "seed-coder"
+  },
+  {
+   "date": "6月4日",
+   "text": "x MiMo-VL-7B-SFT 语言",
+   "modelId": "mimo-vl-7b-sft"
+  },
+  {
+   "date": "6月4日",
+   "text": "x MiMo‑VL‑7B‑RL 语言",
+   "modelId": "mimovl7brl"
+  },
+  {
+   "date": "6月3日",
+   "text": "qvq-plus 语言",
+   "modelId": "qvq-plus"
+  },
+  {
+   "date": "6月3日",
+   "text": "Gemini 2.5 Flash Native Audio 语音合成",
+   "modelId": "gemini-2.5-flash-native-audio"
+  },
+  {
+   "date": "5月29日",
+   "text": "b FLUX.1 Kontext [max] 图像",
+   "modelId": "flux.1-kontext-max"
+  },
+  {
+   "date": "5月29日",
+   "text": "b FLUX.1 Kontext [pro] 图像",
+   "modelId": "flux.1-kontext-pro"
+  },
+  {
+   "date": "5月29日",
+   "text": "Kling 2.1 视频",
+   "modelId": "kling-2.1"
+  },
+  {
+   "date": "5月28日",
+   "text": "m Codestral Embed 语言",
+   "modelId": "codestral-embed"
+  },
+  {
+   "date": "5月27日",
+   "text": "SignGemma 语言",
+   "modelId": "signgemma"
+  },
+  {
+   "date": "5月23日",
+   "text": "DataRater test model (1B) 语言",
+   "modelId": "datarater-test-model"
+  },
+  {
+   "date": "5月23日",
+   "text": "o3 Operator 语言",
+   "modelId": "o3-operator"
+  },
+  {
+   "date": "5月22日",
+   "text": "claude-4-sonnet 语言 API LAB",
+   "modelId": "claude-4-sonnet"
+  },
+  {
+   "date": "5月22日",
+   "text": "claude-opus-4 语言 API LAB",
+   "modelId": "claude-opus-4"
+  },
+  {
+   "date": "5月22日",
+   "text": "claude-sonnet-4 语言 API LAB",
+   "modelId": "claude-sonnet-4-20250514-thinking"
+  },
+  {
+   "date": "5月21日",
+   "text": "Veo 3 视频 DRAW",
+   "modelId": "veo3"
+  },
+  {
+   "date": "5月21日",
+   "text": "m Devstral Small 语言",
+   "modelId": "devstral-small"
+  },
+  {
+   "date": "5月20日",
+   "text": "Gemini Embedding 001 向量与重排 API",
+   "modelId": "gemini-embedding"
+  },
+  {
+   "date": "5月20日",
+   "text": "Gemma 3n 语言",
+   "modelId": "gemma-3n"
+  },
+  {
+   "date": "5月20日",
+   "text": "Imagen 4 图像",
+   "modelId": "imagen-4"
+  },
+  {
+   "date": "5月20日",
+   "text": "Imagen 4 ultra 图像",
+   "modelId": "imagen-4-ultra"
+  },
+  {
+   "date": "5月20日",
+   "text": "Lyria RealTime 音乐",
+   "modelId": "lyria-realtime"
+  },
+  {
+   "date": "5月20日",
+   "text": "MedGemma 27B 语言",
+   "modelId": "medgemma-27b"
+  },
+  {
+   "date": "5月19日",
+   "text": "n Cosmos-Reason1 7B 语言",
+   "modelId": "cosmos-reason1-7b"
+  },
+  {
+   "date": "5月18日",
+   "text": "n NVIDIA Isaac GR00T N1.5 3B 语言",
+   "modelId": "nvidia-isaac-gr00t-n1.5-3b"
+  },
+  {
+   "date": "5月17日",
+   "text": "n SANA 1.5 4.8B 图像",
+   "modelId": "sana-1.5-4.8b"
+  },
+  {
+   "date": "5月16日",
+   "text": "codex-1 语言",
+   "modelId": "codex-1"
+  },
+  {
+   "date": "5月16日",
+   "text": "codex-mini 语言",
+   "modelId": "codex-mini"
+  },
+  {
+   "date": "5月14日",
+   "text": "wanx2.1-vace-plus 图像 DRAW",
+   "modelId": "wanx2.1-vace-plus"
+  },
+  {
+   "date": "5月14日",
+   "text": "AlphaEvolve 语言",
+   "modelId": "alphaevolve"
+  },
+  {
+   "date": "5月12日",
+   "text": "Minimax-Speech-02-HD 语音合成",
+   "modelId": "minimax-speech-02-hd"
+  },
+  {
+   "date": "5月12日",
+   "text": "Hunyuan T1-Vision 视频",
+   "modelId": "hunyuan-t1-vision"
+  },
+  {
+   "date": "5月11日",
+   "text": "Seed1.5-VL 语言",
+   "modelId": "seed1.5-vl"
+  },
+  {
+   "date": "5月10日",
+   "text": "n Earth-2 (cBottle-SR) 图像",
+   "modelId": "earth-2"
+  },
+  {
+   "date": "5月8日",
+   "text": "Qwen-Omni Turbo Realtime 语言",
+   "modelId": "qwen-omni-turbo-realtime"
+  },
+  {
+   "date": "5月7日",
+   "text": "gemini-2.0-flash-preview-image-generation 图像 API",
+   "modelId": "gemini-2.0-flash-preview-image-generation"
+  },
+  {
+   "date": "5月7日",
+   "text": "m Mistral Medium 3 语言",
+   "modelId": "mistral-medium-3"
+  },
+  {
+   "date": "5月6日",
+   "text": "n Apriel Nemotron 15B 语言",
+   "modelId": "apriel-nemotron-15b"
+  },
+  {
+   "date": "5月2日",
+   "text": "MiniMax-Speech-02-turbo 语音合成",
+   "modelId": "minimax-speech-02-turbo"
+  },
+  {
+   "date": "5月1日",
+   "text": "Gemini 2.5 Flash Preview TTS 语音合成 API",
+   "modelId": "gemini-2.5-flash-preview-tts"
+  },
+  {
+   "date": "5月1日",
+   "text": "Gemini 2.5 Pro Preview TTS 语音合成 API",
+   "modelId": "gemini-2.5-pro-preview-tts"
+  },
+  {
+   "date": "5月1日",
+   "text": "Suno v4.5 音乐 LAB",
+   "modelId": "chirp-v4-5"
+  },
+  {
+   "date": "4月30日",
+   "text": "a Amazon Nova Premier 语言",
+   "modelId": "amazon-nova-premier"
+  },
+  {
+   "date": "4月30日",
+   "text": "DeepSeek-Prover-V2-671B 语言",
+   "modelId": "deepseek-prover-v2-671b"
+  },
+  {
+   "date": "4月30日",
+   "text": "DeepSeek-Prover-V2-7B 语言",
+   "modelId": "deepseek-prover-v2-7b"
+  },
+  {
+   "date": "4月30日",
+   "text": "m Phi-4-Reasoning 语言",
+   "modelId": "phi-4-reasoning"
+  },
+  {
+   "date": "4月30日",
+   "text": "m Phi-4-Reasoning-plus 语言",
+   "modelId": "phi-4-reasoning-plus"
+  },
+  {
+   "date": "4月29日",
+   "text": "Qwen3-0.6B 语言",
+   "modelId": "qwen3-0.6b"
+  },
+  {
+   "date": "4月29日",
+   "text": "Qwen3-1.7B 语言",
+   "modelId": "qwen3-1.7b"
+  },
+  {
+   "date": "4月29日",
+   "text": "qwen3-30b-a3b 语言 API LAB",
+   "modelId": "qwen3-30b-a3b"
+  },
+  {
+   "date": "4月29日",
+   "text": "Qwen3-4B 语言",
+   "modelId": "qwen3-4b"
+  },
+  {
+   "date": "4月29日",
+   "text": "llama-prompt-guard-2-22m 语言",
+   "modelId": "llama-prompt-guard-2-22m"
+  },
+  {
+   "date": "4月23日",
+   "text": "gpt-image-1 图像 API DRAW",
+   "modelId": "gpt-image-1"
+  }
+ ],
+ "updates": [
+  {
+   "version": "v0.13.26",
+   "date": "11月18日",
+   "items": [
+    "GPT-6.2 Sol",
+    "GPT-6.2 Astra"
+   ]
+  },
+  {
+   "version": "v0.13.8",
+   "date": "11月13日",
+   "items": [
+    "Gemini 4 Hydrogen",
+    "Gemini 3.5 Flash Lite"
+   ]
+  },
+  {
+   "version": "v0.13.7",
+   "date": "11月11日",
+   "items": [
+    "Gemini 4 Carbon",
+    "Seedream 5.5"
+   ]
+  },
+  {
+   "version": "v0.13.6",
+   "date": "11月10日",
+   "items": [
+    "Eleven v4",
+    "Eleven Sound Effects v3",
+    "Eleven Music v2.5",
+    "Scribe v2 Medical",
+    "Jev 1.13"
+   ]
+  },
+  {
+   "version": "v0.13.5",
+   "date": "11月10日",
+   "items": [
+    "Claude Fable 5.2",
+    "Claude Haiku 5.5",
+    "GPT Image 2.6",
+    "Claude Opus 4.5 (latest)"
+   ]
+  },
+  {
+   "version": "v0.13.4",
+   "date": "11月9日",
+   "items": [
+    "Gemini Omni 1.2 Flash"
+   ]
+  },
+  {
+   "version": "v0.13.1",
+   "date": "11月7日",
+   "items": [
+    "Eleven v3",
+    "Eleven Voice Design v3",
+    "Scribe v2",
+    "Eleven Multilingual STS v2",
+    "ElevenLabs Dubbing"
+   ]
+  },
+  {
+   "version": "v0.12.10",
+   "date": "11月2日",
+   "items": [
+    "Muse Video",
+    "Jev",
+    "glm-5.3-global",
+    "Kimi K3.1 Pro",
+    "GPT-6.1 Terra"
+   ]
+  }
+ ],
+ "status": [
+  {
+   "model": "GPT Image 2.6",
+   "status": "正常",
+   "rate": "94.70%",
+   "latency": "37.0s",
+   "runs": "39",
+   "note": "http_524"
+  },
+  {
+   "model": "GPT Image 2",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "0.0s",
+   "runs": "32",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana 2.1",
+   "status": "正常",
+   "rate": "83.90%",
+   "latency": "82.0s",
+   "runs": "31",
+   "note": "http_524"
+  },
+  {
+   "model": "GPT Image 2.5",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "0.0s",
+   "runs": "14",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.6 Sunburst",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "49.0s",
+   "runs": "13",
+   "note": "—"
+  },
+  {
+   "model": "Seedream 5.5",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "19.0s",
+   "runs": "5",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana Pro（正式版）",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "0.0s",
+   "runs": "4",
+   "note": "—"
+  },
+  {
+   "model": "Seedream 5.0 Pro",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "0.0s",
+   "runs": "4",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.6",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "53.0s",
+   "runs": "1",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.6 Flare",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "49.0s",
+   "runs": "1",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2 C",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2 VIP",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.5 Flare",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.5 Sunburst",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.6 Flare",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT Image 2.6 Sunburst",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Image",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Image",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Image 2.0",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Image 2.0",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Image Quality",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Image Quality",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana 2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana 2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana 2（正式版）",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana 2 Lite",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana HD",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Nano Banana Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedream 5.0",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedream 5.0",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedream 5.0 Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.5",
+   "status": "正常",
+   "rate": "80.00%",
+   "latency": "240.0s",
+   "runs": "30",
+   "note": "cancelled"
+  },
+  {
+   "model": "Seedance 2.0 Fast",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "0.0s",
+   "runs": "28",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.0",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "223.0s",
+   "runs": "26",
+   "note": "—"
+  },
+  {
+   "model": "Kling 4.0",
+   "status": "正常",
+   "rate": "85.70%",
+   "latency": "298.0s",
+   "runs": "7",
+   "note": "task_failed"
+  },
+  {
+   "model": "Kling 3.0",
+   "status": "不稳定",
+   "rate": "50.00%",
+   "latency": "230.0s",
+   "runs": "2",
+   "note": "task_failed"
+  },
+  {
+   "model": "Muse Video 60s",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "497.0s",
+   "runs": "2",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.5",
+   "status": "故障",
+   "rate": "0.00%",
+   "latency": "—",
+   "runs": "2",
+   "note": "http_503"
+  },
+  {
+   "model": "Kling 3.0 Omni",
+   "status": "故障",
+   "rate": "0.00%",
+   "latency": "—",
+   "runs": "1",
+   "note": "task_failed"
+  },
+  {
+   "model": "Gemini Omni 1.2 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini Omni 1.2 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini Omni Fast",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini Omni Fast V2V",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Video",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Video",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Video 1.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok Imagine Video 1.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Kling 2.5 Turbo",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Kling 2.6",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Kling 3.0 Turbo",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Kling O1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "MiniMax H3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "MiniMax H3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 20s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 20s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 30s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 30s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 40s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 40s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 50s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 50s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Video 60s",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.0",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.0 Fast",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.0 Mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seedance 2.0 Mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v6",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "80.0s",
+   "runs": "9",
+   "note": "—"
+  },
+  {
+   "model": "Eleven English STS v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven English STS v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Flash v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Flash v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Flash v2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Flash v2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Multilingual STS v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Multilingual STS v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Multilingual v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Multilingual v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Music v1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Music v1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Music v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Music v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Music v2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Music v2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Sound Effects v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Sound Effects v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Turbo v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Turbo v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Turbo v2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Turbo v2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven v4",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven v4",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Voice Design v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Voice Design v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Voice Design v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Eleven Voice Design v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "ElevenLabs Dubbing",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "ElevenLabs Dubbing",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Podcast",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Muse Podcast",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen3 TTS Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Scribe v1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Scribe v1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Scribe v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Scribe v2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Scribe v2 Medical",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Scribe v2 Medical",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v3.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v4",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v4.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v4.5+",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Suno v5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "TTS-1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "TTS-1 HD",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 4 Argon",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "48.0s",
+   "runs": "3",
+   "note": "—"
+  },
+  {
+   "model": "GPT-6.2 Sol",
+   "status": "正常",
+   "rate": "100%",
+   "latency": "11.0s",
+   "runs": "1",
+   "note": "—"
+  },
+  {
+   "model": "chatgpt-4o-latest",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Fable 5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Fable 5.1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Fable 5.2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Haiku 4.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Haiku 4.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Haiku 5.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 4.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 4.5 (latest)",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 4.6",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 4.7",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 4.8",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Opus 5.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Sonnet 4.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Sonnet 4.5 (latest)",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Sonnet 4.6",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Sonnet 5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Claude Sonnet 5.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-haiku-4-5-20251001-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-opus-4-6-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-opus-4-7-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-opus-4-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-opus-4-thinking-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-20250514",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-20250514-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-5-20250929-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-5-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-5-thinking-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-6-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "claude-sonnet-4-thinking-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "codex-auto-review",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "DeepSeek V4 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "DeepSeek V4 Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "deepseek-ocr",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "deepseek-v3.2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "deepseek-v4-1-flash-260910",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "deepseek-v4-1-flash-261017",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "deepseek-v4.1-flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "doubao-seed-2-0-code-preview-260215",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "doubao-seed-2-0-lite-260215",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 2.5 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 2.5 Flash-Lite",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 2.5 Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3 Flash Preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.1 Flash Lite",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.1 Flash Lite Preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.1 Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.1 Pro Preview Custom Tools",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.5 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.5 Flash Lite",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.6 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.7 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 3.8 Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 4 Carbon",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Gemini 4 Hydrogen",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-2.5-flash-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-2.5-flash-deepsearch",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-2.5-flash-nothinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-2.5-flash-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-2.5-pro-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-2.5-pro-deepsearch",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3-flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3-flash-preview-nothinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3-flash-preview-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3-pro-preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3-pro-preview-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3.1-pro-preview-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gemini-3.5-flash-nothinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GLM-5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GLM-5.2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GLM-5.3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GLM-5.3-Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-3.5-turbo",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-3.5-turbo-0125",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-3.5-turbo-1106",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-3.5-turbo-16k",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4 Turbo",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4-32k",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4-dalle",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4-turbo-2024-04-09",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4-vision-preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4.1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4.1 mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4.1 nano",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4.1-2025-04-14",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4.1-mini-2025-04-14",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4.1-nano-2025-04-14",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4o",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4o (2024-05-13)",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4o (2024-08-06)",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4o (2024-11-20)",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-4o mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4o-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-4o-mini-2024-07-18",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5 Mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5 Nano",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-chat",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-low",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-medium",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-mini-2025-08-07",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-nano-2025-08-07",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-thinking",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5-thinking-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5.1-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5.1-thinking-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.2",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.4",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.4 mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.4 nano",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.4 Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5.4-2026-03-05",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5.4-mini-2026-03-17",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5.4-nano-2026-03-17",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-5.4-pro-2026-03-05",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.6 Sol",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-5.6 Terra",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-6 Astra",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-6 Sol",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-6.1 Sol",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "GPT-6.2 Astra",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "gpt-oss-20b",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok 4.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok 4.6",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Grok 4.7",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-2-1212",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-3-deepsearch",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-3-reasoner",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-4",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-4-0709",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-4.1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "grok-beta",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "hy3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "hy4-preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Jev",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Jev",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Jev 1.13",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Jev Preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Jev Preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Kimi K2.7 Code",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Kimi K3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "kimi-k2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "kimi-k2.8-preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "llama-2-7b",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "llama-3-8b",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "llama-3.1-8b",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "llama-3.2-11b-vision-instruct",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "llama-3.2-3b-instruct",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "minimax-m2.5",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "MiniMax-M3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "MiniMax-M3.1-Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-2024-12-17",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-mini-2024-09-12",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-mini-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-preview-2024-09-12",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-preview-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o1-pro-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3-2025-04-16",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3-mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3-mini-2025-01-31",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3-mini-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3-mini-high",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o3-mini-high-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o4-mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o4-mini-2025-04-16",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o4-mini-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o4-mini-dr",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o4-mini-high",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "o4-mini-high-all",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen Long",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen Max",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen Plus",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "qwen-aegis",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "qwen-max-longcontext",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "qwen-plus-latest",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen-VL OCR",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "qwen/qwen3.8-27b",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen3 Coder Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen3-Omni Flash",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen3-VL Plus",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Qwen3.5-Plus",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "search-gpts",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "search-gpts-chat",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seed 2.0 Mini",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "Seed 2.0 Pro",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "step-5-preview",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  },
+  {
+   "model": "url-analysis",
+   "status": "最近没有运行",
+   "rate": "—",
+   "latency": "—",
+   "runs": "0",
+   "note": "—"
+  }
+ ],
+ "works": [
+  {
+   "id": "e9521717-6544-4128-a760-dd62edbbebef",
+   "title": "A cinematic anime-style video of a young pirate boy resembling Luffy, seen from behind, sitting on a small wooden boat in the middle of calm blue water between two green mountains. The camera remains fixed behind him with a subtle handheld feel, slight natural shake. The boy is slowly rowing the boat with a wooden oar in a smooth and relaxed rhythm. Each rowing motion is gentle and natural, creating small ripples and soft splashes in the water. The boat moves forward steadily with a calm, peaceful motion, slightly rocking with the waves. The water is clear with soft reflections and gentle movement. The sky is bright with a massive towering cumulus cloud, slowly evolving. Light wind softly moves his shirt and straw hat. The overall mood is calm, peaceful, and meditative, with a sense of quiet journey. Audio: soft rhythmic rowing water sounds, gentle ocean waves, light wind, no music. Style: anime cinematic, ultra detailed, 4k, depth of field, soft lighting, Studio Ghibli-inspired, smooth rowing loop, consistent rowing rhythm, natural water resistance, subtle boat rocking, realistic water ripple interaction, soft water splashing from rowing, gentle paddle dipping sound, light wind, calm ambient ocean, no music",
+   "thumb": "/nextlab/works/e9521717-6544-4128-a760-dd62edbbebef/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "ea1528a9-eebb-4aa2-b504-b68c8dee8b49",
+   "title": "Cinematic night hilltop scene with the camera completely still, three boys calmly holding and gently sipping juice with subtle natural hand and head movements, their bodies mostly relaxed and steady, soft expressions as they quietly enjoy the view, fireflies float naturally through the air in slow organic paths without clustering or sudden movement, a strong continuous wind flows across the scene causing tree branches and nearby plants to sway heavily in smooth rhythmic motion, the boys’ hair and loose clothing move dynamically with the wind in a natural flowing pattern, distant city lights remain stable with slight atmospheric shimmer, no abrupt changes or exaggerated motion, all elements follow realistic physics with balanced timing, creating a peaceful, immersive, windy night anime animation with subtle and beautiful motion",
+   "thumb": "/nextlab/works/ea1528a9-eebb-4aa2-b504-b68c8dee8b49/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "6681d060-0d67-4594-b993-56d628009acc",
+   "title": "Cinematic wide shot with a calm stable camera. The boy gently plays the flute while sitting beside the flowing river. A continuous soft wind moves smoothly across the entire scene, making the grass sway constantly and naturally while his hair also moves lightly with the breeze. The wind flows calmly through the landscape creating a smooth peaceful atmosphere. The river water moves gently with soft natural motion as it flows past the rocks. In the background, the animals slowly walk and graze naturally across the field. The clouds drift softly around the mountain peaks while the sunlight spreads warm light across the valley. The overall animation feels peaceful, smooth, and atmospheric, with gentle wind, flowing water, and calm natural movement throughout the scene.",
+   "thumb": "/nextlab/works/6681d060-0d67-4594-b993-56d628009acc/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "f568355a-8411-4089-bf5e-abb80f250141",
+   "title": "30-second continuous single-shot POV video, rainy afternoon, old-fashioned covered shopping arcade in Japan. Young woman strolling, dodging splashes, petting a shop cat, buying and biting into a fresh roasted sweet potato (焼き芋). Tight pacing — new event every few seconds — observational tone, no comedy/staging. Hyper-realistic, 4K, 16:9, natural DOF. Setting: Narrow covered arcade, worn tile floor, warm low-hung shop lights on the left — fish stall on ice, secondhand bookstore, a cart with a chimney and black iron oven (orange glow inside, sweet potatoes warming on top, caramel aroma). Right side opens to street where heavy rain falls like a bright curtain — water sheeting off eaves, gushing drainpipes, rippling puddles, blurred umbrella-carrying pedestrians beyond. Gray overcast light blends with warm tungsten and oven glow. No legible signage/brands. POV Lock: Eye-level of a 162cm woman, single continuous take, no cuts/external angles. Only hands/wrists/forearms visible — face/body never shown, even in reflections. Light-medium skin tone, slender hands, unpainted short nails, small gold ring (left index finger), mustard-yellow raincoat with gray knit cuffs. A dripping folded dark blue umbrella hangs from her left forearm throughout. Vendor: Japanese man, ~60s, gray apron, navy towel headband. Economical, practiced movements — opens oven, tongs out potato, wraps in paper, hands it over. No exaggerated motion. Timeline: 0–4s: First frame is mid-action: a motorcycle splashes through a puddle toward camera; she swerves, umbrella swings on her arm, droplets hit her sleeve, camera shakes with inertia then settles. She bends and shakes water off her sleeve. 4–9s: She continues walking; a child in a red raincoat runs by with a wet poodle that shakes off water near her feet. She instinctively raises a hand to shield herself, gaze following them toward the rain. 9–15s: Vendor nods in greeting. A tuxedo shop cat (small towel on its back) approaches from its stool, rubs against her leg. She crouches, scratches its chin; cat purrs, rests a paw on her wrist, she supports it gently. 15–22s: She stands, approaches the cart. Vendor opens the oven (heat-shimmer distortion), tongs out a charred potato, weighs it, wraps it in two layers of paper. She opens her coin purse, hands over coins — brief real fingertip contact with his palm. He nods, hands her the wrapped potato with both hands; she feels the heat through the paper, shifts grip, paper deforms slightly. 22–30s: Walking toward the rain's edge, she peels back paper and breaks the potato open — charred skin cracks, steam rises thickly from golden flesh. She blows on it twice; steam dissipates and re-gathers. A broken-off piece extends past the frame's lower edge (face never shown). Retracting her hand, caramel-colored juice stains her fingertips; her thumb rubs it. Final frame: she holds the steaming broken potato low in frame; behind her, a bright wall of rain stretches into the distance, drops exploding on asphalt; the shop cat watches from beside the cart. Camera: Fixed 47° FOV, natural human perspective, straight architectural lines, clear depth of field. Close-ups only during: breaking the potato, petting the cat, looking into the oven. Weighted head-inertia motion, restrained shoulder sway, quick dodge-swings with delayed stabilization. No floating, no gimbal look, no fisheye, no zoom. Brief autofocus breathing between focal shifts (splash, cat, oven glow, coins, rain), quick recovery. A few droplets land on the lens during dodges and slide off realistically. Physics: Sweet potato has real weight, crisp charred skin that tears along cracks, moist dense interior, turbulent rising steam. Heat conveyed through her finger movement. Tongs are rigid, dent the skin slightly, no clipping. Coins have real metal-on-skin contact and sound. Motorcycle splash, poodle shake, and eave water follow real fluid dynamics. Cat fur slightly damp at edges, towel stays in place, realistic feline weight shifts. Oven heat causes localized shimmer distortion. No clipping/collisions; pedestrians, child, and dog show natural motion cycles and avoidance behavior. Visuals: Photorealistic, natural unstylized color — gray sky against warm tungsten and oven's orange glow, realistic wet-surface reflections, photorealistic skin/fabric/steam/rain. Stable 24fps, no slow motion, stutter, ghosting, or frame repeats. Audio: Natural sync sound only — rain on the roof, motorcycle engine/tires through water, dog shaking off water, child's running footsteps, oven pebble crackle, oven door thud, tongs clinking, paper rustling, coin dropping into palm, cat purring, charred skin tearing, breath blowing on steam, distant layered voices. No narration, dialogue, music, subtitles, logos, or watermark.",
+   "thumb": "/nextlab/works/f568355a-8411-4089-bf5e-abb80f250141/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "30cb8536-45d4-4415-92d4-5aef826bd0d0",
+   "title": "It is a rural setting at golden hour, but the sky is filled with storm clouds, specifically a funnel cloud as a gigantic tornado has touched down near a one-story ranch house. There are two giraffes and a gorilla in the front yard of the house.",
+   "thumb": "/nextlab/works/30cb8536-45d4-4415-92d4-5aef826bd0d0/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "5e8fff27-2ef3-4383-bee9-db3eaa8229f8",
+   "title": "Static locked camera shot from inside an old room, looking out through an open weathered wooden window toward a large tree trunk and bright green leaves under a clear blue sky. The camera remains completely fixed.The main motion is the wind moving the leaves outside the window. The tree trunk stays completely still, but the green leaves, small branches, and thin branch tips must sway clearly and continuously in a natural breeze. The leaves should visibly flutter, shimmer, and move in soft layered motion across the window view. The movement must be readable and alive, not frozen, not static, and not barely noticeable.Warm natural sunlight enters through the open window and softly illuminates the old wooden frame, glass panels, wall edges, and interior shadows. The sunlight should feel natural, gentle, and stable. Subtle moving leaf shadows and soft reflections may appear on the window glass and frame, caused only by the leaves moving outside. The overall lighting must not flicker or change exposure.The old window frame, glass panels, wall, interior, tree trunk, sky, and overall composition remain stable and unchanged. Preserve the original composition exactly: open window angle, tree trunk position, leaf placement, blue sky, old wood texture, glass reflection, sunlight direction, shadows, and framing must remain unchanged.Emotional cinematic atmosphere, quiet nostalgic mood, realistic outdoor leaf movement, soft natural daylight, delicate old-window texture, 4K quality.No camera movement, no pan, no tilt, no zoom, no shake. No window movement, no glass movement, no wall movement, no tree trunk movement. No color shift, no white balance change, no exposure flicker, no brightness pulsing, no saturation change. Keep the original warm sunlight, blue sky, fresh green leaves, dark interior tones, old wooden frame color, and natural contrast exactly the same. No object distortion, no extra elements, no disappearing leaves, no morphing.",
+   "thumb": "/nextlab/works/5e8fff27-2ef3-4383-bee9-db3eaa8229f8/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "24c3b5ae-313d-4661-8cf2-7a9586d3e856",
+   "title": "Cinematic wide shot, a woman in a flowing vibrant red dress standing in the center of a large ring of fire, orange and yellow flames encircling the subject, pitch black background, dark asphalt ground, dramatic lighting, warm fire glow illuminating the dress and skin, moody, high contrast, low key, sharp focus, photorealistic, 8k.",
+   "thumb": "/nextlab/works/24c3b5ae-313d-4661-8cf2-7a9586d3e856/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "bfdc8958-c285-4e60-b5a8-6f690a633ac7",
+   "title": "Cinematic monochrome film still, high-contrast black and white photography, a solitary figure riding a white horse through a dense ground mist, dark gothic landscape, gnarled and twisted dead tree with reaching branches in the background, rugged rocky terrain framing the shot, dramatic chiaroscuro lighting, ethereal volumetric fog, haunting and eerie atmosphere, 35mm film grain, vintage cinema aesthetic, deep shadows, wide-angle shot, German Expressionism influence, dark fantasy style, sharp textures on rocks, soft diffusion in the mist.",
+   "thumb": "/nextlab/works/bfdc8958-c285-4e60-b5a8-6f690a633ac7/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "439fc7aa-60df-42ee-9231-637bb328110a",
+   "title": "Fixed camera cinematic anime close-up portrait of a mysterious dark-haired shinobi standing in a cold rainy night, dramatic half-face composition, one glowing crimson eye illuminating the darkness, deep emotional atmosphere, ultra-detailed anime cinematic style Live wallpaper motion: long black hair strands moving gently in cold wind, high collar and cloak fabric subtly fluttering with realistic cloth physics, soft breathing motion, natural slow eye blinking while maintaining an intense calm expression Crimson eye energy softly pulsing and glowing, subtle animated reflections moving across the iris, faint energy shimmer surrounding the eye without changing the original composition Rain continuously falling through the scene with realistic rain streaks crossing foreground and background depth, water droplets accumulating and sliding across hair, face, metal forehead protector, and clothing surfaces Snowflakes slowly drifting through the rain, creating layered atmospheric contrast — soft snowfall illuminated by cold blue moonlight and red eye glow, floating naturally in different depth planes Dynamic environment fully alive — mist and cold fog drifting through the background, wet reflections shimmering softly, ambient particles and moisture moving naturally through the air Cinematic lighting with cool blue tones contrasted by intense red eye illumination, subtle light flicker across the face and collar, realistic moisture highlights and glossy reflections Atmospheric depth of field, dreamy bokeh lights in the distance, soft environmental motion everywhere while preserving the still portrait composition No camera movement, only environmental motion and subtle character animation for immersive live wallpaper effect Smooth seamless loop animation, ultra high detail, atmospheric masterpiece, 4K cinematic quality",
+   "thumb": "/nextlab/works/439fc7aa-60df-42ee-9231-637bb328110a/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "2749f7bf-dda1-43c9-942d-56c0d876de51",
+   "title": "Cinematic dark fantasy concept art, tiny silhouette of a human standing atop a central peak, surrounded by three colossal eldritch serpents with gaping maws and rows of sharp teeth, symmetrical composition, gargantuan scale contrast, intense volumetric amber lighting, thick golden haze, deep shadows, monolithic atmosphere, hyper-realistic textures, Lovecraftian horror style, 8k resolution, --ar 1:1",
+   "thumb": "/nextlab/works/2749f7bf-dda1-43c9-942d-56c0d876de51/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "4337c666-666e-472e-b2ae-41ecc5ef8fa6",
+   "title": "Cinematic anime art style, low-angle worm's-eye view, wide-angle perspective, dramatic framing through the legs of a foreground warrior, gritty graphic novel aesthetic, cel-shaded animation, synthwave neon lighting, light source from a glowing magenta circular sun in the center background, city skyline silhouette, sharp rim lighting on a blood-dripping katana, deep chiaroscuro shadows, high-contrast purple and pink color palette, subtle film grain texture, noir atmosphere, digital illustration, stylized realism, high-tension composition.",
+   "thumb": "/nextlab/works/4337c666-666e-472e-b2ae-41ecc5ef8fa6/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "2c9ae46e-c5d2-4258-a9d4-9037648349ec",
+   "title": "Scene: Massive seaside Latin music festival, sunny summer afternoon — azure sky, turquoise sea, palm silhouettes on the horizon, 100,000+ spectators in bright colors stretching to the coastline. A male and female reggaeton singer perform on a giant tropical main stage. Multi-shot, fast-paced, hard-cut sequence emphasizing epic scale and summer heat. Reference Locks: Female singer (@image_2): Long sun-lit deep caramel curls, bronze skin, large gold hoops, bright orange satin halter top, white low-waist cargo pants with gold chain belt, layered gold coin-pendant necklace, gold bracelets/waist chain, black wired mic. 100% match to reference. Male singer (@image_1): Short dark hair, faded sideburns, trimmed beard, open turquoise tropical-print silk shirt over white vest, beige linen wide-leg trousers with woven belt, matching gold coin necklace, gold watch/ring, amber sunglasses, black mic. 100% match to reference. Location: Multi-layered steel tower stage with tropical foliage, reflective steel frame. Central LED screen (~30m) shows bright abstract tropical colors (orange/turquoise/sunset pink); two secondary LED towers flank it. Extended platform runs into the crowd. Foreground: platform, CO2 jets, ribbon cannons. Midground: performers. Background: LED wall, blue sky, distant sea/palms. Fan-shaped crowd in bright summer clothing waving hats, towels, flags. First Frame: High-speed FPV shot skimming over the crowd toward the stage — no static or slow-motion buildup. Female singer stage-left, male stage-right, both at the platform's end, facing the crowd, moving to the reggae beat. Format: Hard cuts only, no fades/dissolves, real-time speed throughout. Shot 1 — Explosive Opening: FPV (107°) rockets over the crowd's heads toward the stage, passing hats and towels, sun flaring on the lens. As it reaches the singers, CO2 jets erupt in white plumes and orange/turquoise smoke grenades burst simultaneously. Hard Cut Shot 2 — Female Close-up: 29° portrait — she sings into the mic, fierce gaze at camera, curls whipping in the sea breeze, jewelry glinting, hips swaying against a soft-focus crowd and smoke backdrop. Hard Cut Shot 3 — Epic Reverse: 84° wide, high angle from behind both singers — arms raised, backs to camera, facing the endless crowd, flags waving, blue sky, shimmering sea beyond. Hard Cut Shot 4 — Male Close-up: 29° — he sings one-handed on the mic, shirt fluttering with highlights, other hand waving confidently to the crowd, relaxed smile. Hard Cut Shot 5 — Duet Dance: 47° medium shot from the platform front — the two face each other, dancing in sync, sharp sunlit shadows, camera panning gently with the beat. Hard Cut Shot 6 — Aerial Surround: Drone (107°) arcs around the full stage tower — sunlight, vapor columns, colored smoke, the crowd, and the turquoise sea beyond. Hard Cut Shot 7 — Crowd Interlude: Handheld 47° through the audience — people singing, jumping, riding shoulders with flags; water-spray guns catch golden light with slight flare. Hard Cut Shot 8 — Climax: 107° frontal wide — singers back-to-back center-stage, arms raised, as golden ribbon cannons fire CO2 columns skyward; gold/orange confetti fills the frame against blue sky, drifting down over the crowd. Hard Cut Shot 9 — Closing: Rapid pull-back to super-high aerial view — full stage, falling confetti, the colorful crowd to the coastline, turquoise sea, swaying palms. Physics: Realistic weight in all movement — heel strikes, weight shifts, hip inertia in dance; delayed inertial swing in hair and chains; silk sways with wind/motion; flags and towels flutter; confetti falls under gravity, dispersed by breeze; CO2 disperses quickly; water follows parabolic arcs; mic cables drag with movement. No floating or teleporting figures. Lighting: Intense late-midday tropical sun from upper right, sharp defined shadows. LED screen adds orange-cyan ambient glow against sunlight. CO2/confetti catch bright highlights; sea shimmers; sky is deep clear blue. Exposure keyed to sunlight — bright, not blown out; bronzed skin glowing. Saturated, vibrant color, sharp subjects, creamy blurred backgrounds — top-tier daytime festival look. Audio: High-energy reggae — dembow beat, heavy bass, Latin percussion syncopation, 100,000-person cheers/sing-along, CO2 hiss, confetti cannon bursts. Singers perform in sync with the music; no dialogue, no subtitles. Positive Lock: Only the two named singers appear on stage — no other performers or dancers. Faces, hair, clothing, and accessories 100% locked to reference images throughout, no drift. No brand logos, printed text, or cross ornaments. No on-screen text, logos, watermarks, or UI elements.",
+   "thumb": "/nextlab/works/2c9ae46e-c5d2-4258-a9d4-9037648349ec/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "3b27ed36-1c0f-454e-833e-d061ee0c42ca",
+   "title": "A professional 3-view character reference sheet (turnaround), featuring front, side, and back perspectives. The artwork depicts full-body views with all angles horizontally aligned, maintaining consistent character proportions and clothing details. The background is pure white, and the artistic style is realistic. The right side displays close-up details of the character's face, showcasing three distinct facial expressions. The image contains no accompanying text.",
+   "thumb": "/nextlab/works/3b27ed36-1c0f-454e-833e-d061ee0c42ca/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "b6d34d2a-a9df-43b8-91bf-30fe98800f1f",
+   "title": "A professional cinematic visual development board for a high-end 3D animated feature film, presented on a clean, light-grey editorial layout with organized grid panels. The board features the two main characters: a fluffy orange-brown Red Panda with distinct white facial markings and a bushy ringed tail, and a vibrant Rainbow Pangolin covered in iridescent, multi-colored scales ranging from deep purple to bright yellow. Top Section: Character Design Sheets. Orthographic turnarounds (front, side, and back views) for both characters, maintaining consistent 3D fur and scale textures. A series of facial expression studies showing \"Animated Conversation\" and \"Sudden Shock/Terror.\" Middle Section: Set Design and Environment. Detailed interior of a stylized, modern electric car customized for small animals, featuring a glowing holographic dashboard and tactile leather seats. A separate environment panel shows a sun-drenched coastal highway at golden hour, transitioning into a dramatic shot of a large fallen cedar tree blocking the lane. A top-down blocking diagram illustrates the car’s trajectory and the distance to the obstacle. Bottom Section: Storyboard Sequence. Panel 1: Medium Two-Shot of the Red Panda driving while the Pangolin gestures enthusiastically during a deep conversation. Panel 2: Point-of-View (POV) shot through the windshield as the fallen tree suddenly appears around a bend. Panel 3: Extreme Close-Up of the Red Panda’s paw slamming onto a metal brake pedal. Panel 4: Wide Profile Shot of the car tilting forward as the tires smoke and screech against the asphalt. Panel 5: Reaction Close-Up of both characters jolting forward into their seatbelts, eyes wide with adrenaline. Technical Details: Camera movement diagrams with red motion arrows indicating a \"Fast Push-In\" and \"Handheld Shake\" during the braking sequence. Lighting notes specify warm, high-key interior lighting for the dialogue, shifting to high-contrast, cinematic shadows for the emergency. Style: Professional Pixar-inspired 3D animation, 8k resolution, ray-traced reflections, motion blur on the road panels, elegant typography labels for \"Scene 14: The Near Miss,\" and clean black divider lines.",
+   "thumb": "/nextlab/works/b6d34d2a-a9df-43b8-91bf-30fe98800f1f/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "a7c69b6c-db0d-496e-b31a-94c19091eb28",
+   "title": "[Cinematography]: kamera sleduje krychlovou loď [Action] krychlová loď lehce letí nad pouští, tlak horkého vzduchu z motorů lehce víří prach. Postavy kráčejí za ní. [Context]: klidný pouštní svět, lidé působí jako otroci vyšší moci, která ovládá pokročilé technologie, které zosobňuje loď [Ambiance] tichý zvuk pouště a lehkého větru, decentní zvuk motoru lodi připomínající spíš zvuk vzduchových turbín. Žádná hudba.",
+   "thumb": "/nextlab/works/a7c69b6c-db0d-496e-b31a-94c19091eb28/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "c8b4fb56-baa4-41f1-a4bd-a520c1db18e8",
+   "title": "Prompt: A cinematic high-fashion luxury film set in a pastel pink ornamental garden with symmetrical hedges, palm trees, and a decorative gazebo. A young woman in a structured white mini dress stands centered, poised and elegant. Several beagles are placed naturally within the garden. The tone is refined, grounded, and editorial, like a luxury fashion campaign. Natural lighting, soft sunlight, realistic physics, premium composition. Multi-shot sequence: Shot 1: Low-angle tracking shot of a beagle walking through trimmed hedges, gently carrying a delicate flower branch in its mouth. Shallow depth of field, soft sunlight, cinematic motion. Shot 2: Medium shot as the dog approaches the model. The model looks down toward the dog, calm and composed. Shot 3: Close-up of interaction. The dog lifts its head slightly and the model gracefully takes the flower branch from its mouth. Subtle natural breeze. Shot 4: Close-up portrait of the model’s face. Soft expression, minimal movement, luxury editorial feel. Shot 5: Wide establishing shot revealing the full garden. Symmetrical layout, pink gazebo in the background, dogs placed naturally like part of the setting. Shot 6: Close-up detail shot of the branch in her hand. Leaves moving gently in the breeze, sunlight highlighting textures of skin, fabric, and foliage. Shot 7: Slow dolly-in toward the model standing centered. Dress structure and posture emphasized, confident and poised. Shot 8: Final hero shot. Subtle camera orbit around the model, clean composition, high-fashion campaign ending. Style and direction: Luxury fashion editorial, Dior-style campaign, soft natural daylight, pastel pink and green color palette, shallow depth of field, cinematic camera movement, realistic motion, no surreal elements, high detail, filmic quality.",
+   "thumb": "/nextlab/works/c8b4fb56-baa4-41f1-a4bd-a520c1db18e8/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "0036933c-e8a8-42fd-805a-4e24efbd8e83",
+   "title": "Cinematic shot in continuous motion, captured in ONE unbroken take — no cuts, no transitions, no editing whatsoever, a single continuous camera from start to finish. The girl is walking straight ahead along the wide stone-slab sidewalk of a quiet Brooklyn brownstone street, a row of red-brick brownstone townhouses with tall front stoops and black wrought-iron railings, cast-iron fences overgrown with ivy, cars parked along the curb, old plane trees forming a green canopy over the sidewalk, soft warm daylight filtering through the leaves with dappled light and shadow on the pavement, a fire hydrant at the curb, cracked stone sidewalk slabs, a couple of distant pedestrians far down the street. With one arm she hugs a kraft paper grocery bag with the groceries sticking out — a baguette, green lettuce, carrots, a bunch of basil, a bottle of milk, a jar of honey. In her other hand she holds an iPhone 17 Pro, glancing at the screen as she walks. ACTION: she simply walks forward at a calm, even pace, straight along the sidewalk — nothing else happens. Natural gait with real weight transfer, heel to toe, hips and shoulders working, hair swaying slightly with each step, the paper bag shifting a little in her arm, the groceries rocking inside it, her thumb occasionally moving on the phone screen. Her expression is relaxed and unbothered, eyes mostly on the screen, once or twice lifting to look ahead. Dappled light slides across her face and over the stone slabs at her feet as she passes under the plane trees. CAMERA: one smooth continuous move. The camera films her in a medium shot from a 3/4 front-side angle, tracking backward at exactly her walking speed, holding a constant distance and a constant frame — steady, level horizon, gentle organic float. No zoom: the focal length is fixed, a prime lens, framing never changes through cropping. The camera drifts slowly from the left front quarter toward center-front and back again across the shot, staying ahead of her the entire time. TECHNIQUE: shot on a Panavision Millennium DXL2 camera with Panavision C, G and T series anamorphic prime lenses — slight anamorphic distortion at the frame edges, oval bokeh, shallow depth of field, no flares, no horizontal streaks, no lens flare. Soft warm daylight through the foliage, cinematic color grade, subtle film grain. 8K. SOUND: no music, SFX only — footsteps on stone slabs, rustling leaves, quiet breathing, the soft creak of the paper bag, a muffled city hum in the distance, birds. Negative locks: no cuts or transitions, no zoom, no digital punch-in, the frame never tilts or flips, the horizon is always level; she does not fall, does not stop, does not turn around, does not drop anything; no second character, no text or titles.",
+   "thumb": "/nextlab/works/0036933c-e8a8-42fd-805a-4e24efbd8e83/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "5668e368-fd52-4eb9-8223-179b1e502ea5",
+   "title": "A dynamic nighttime street race in a Japanese city, as shown in the reference image—the lights of skyscrapers are blurred into streaks of light due to motion, and a full moon casts long shadows of car headlights and track lights due to speed. A white sports car with a large rear wing and a racing livery speeds along the night track and drifts—the rear axle loses traction, the car sideslips, sliding sideways in a controllable manner, white smoke and sparks rising from the rear tires, before straightening up and accelerating again in a straight line, then drifting out of a corner. A continuous, extremely dynamic shot. The camera is handheld, filmed from the rear side of the car—vivid shaking, a sense of speed, the camera follows the car, capturing the drift and smoke, sometimes close to the rear wheel, sometimes along the side of the car, following the sideslip and straightening out of the corner. Everything is super dynamic, full of crazy speed, drifting and passion. Shot using a Panavision Millennium DXL2 camera with Panavision G-Series anamorphic widescreen lenses—slight distortion, elliptical bokeh, shallow depth of field, no lens flare. Nighttime lighting, city lights, smoke, wetland reflections, cinematic color grading, slight film grain. 8K. Audio: No music, only sound effects—high-revving engine roar, tire screeching and friction during drifting, exhaust pops, turbo whistling, high-speed roar, Doppler boom.",
+   "thumb": "/nextlab/works/5668e368-fd52-4eb9-8223-179b1e502ea5/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "c8a0c655-5801-4332-9f56-d4f109026da0",
+   "title": "Cinematic shot of an ethereal woman suspended in mid-air from a metal ring, arching her back in a dramatic pose, wearing a tattered white avant-garde feathered gown with long flowing shredded fabric, dark theatrical stage setting, dramatic top-down spotlight, volumetric lighting, atmospheric purple smoke in the background, high fashion photography, surrealism, moody and haunting aesthetic, 8k resolution, highly detailed textures.",
+   "thumb": "/nextlab/works/c8a0c655-5801-4332-9f56-d4f109026da0/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "f3d1c173-5d17-4dcb-83f3-106eea8b9d96",
+   "title": "Use the uploaded image as the main visual reference. Keep the same little blonde fairy-like girl, blue flower crown, blue dress, and the same adorable spotted fawn. Preserve the warm golden magical forest, red mushrooms, butterflies, flowers, and sparkling particles. Create an emotional cinematic animated scene with constant natural movement, realistic body behavior, and no static poses or robotic motion. The scene begins in a warm sunlit forest clearing. The little girl is kneeling beside the fawn, gently placing a delicate flower garland around its neck. She moves naturally, adjusting the garland with both hands, smiling softly, tilting her head, and laughing when the fawn lovingly nuzzles her cheek. Her hair shifts in the breeze, and her dress moves softly with every motion. The fawn reacts with realistic affectionate movement — blinking, lifting its head, moving its ears, and stepping closer with trust. After this tender moment, the girl slowly rises to her feet with natural body motion, using her legs and balance like a real child. She gently strokes the fawn’s neck, then turns and begins walking through the magical forest path. The fawn follows closely beside her with soft, lively steps. As she walks, she lightly touches leaves, flowers, and tree branches along the path. Wherever her hand passes, large colorful flowers bloom beautifully on both sides of the path — giant blue, pink, yellow, and violet blossoms opening in magical slow waves. The camera starts with a soft push-in, then performs a smooth 180-degree rotation around the girl and fawn as they begin walking forward. It follows them from behind like a cinematic tracking shot, then glides to the front, showing their joyful expressions as flowers bloom around them. Butterflies swirl through the air and glowing particles rise from the newly opened blossoms. At one point, the girl pauses, turns with delight, and reaches both arms outward as more giant flowers bloom around her. She makes a light joyful twirl, almost like dancing, while the fawn circles around her playfully. The camera then performs a gentle 360-degree orbit, capturing the growing magical flower path in full beauty. End with a cinematic zoom-out showing the girl and the fawn continuing deeper through the enchanted forest, surrounded by giant colorful blooming flowers, butterflies, golden sun rays, and sparkling magic. The scene should feel warm, emotional, alive, and visually breathtaking like a fairy-tale animated film.",
+   "thumb": "/nextlab/works/f3d1c173-5d17-4dcb-83f3-106eea8b9d96/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "599345e1-7b7c-43d1-a233-7cc90dcf9ca9",
+   "title": "Static locked camera shot of a quiet coastal road leading toward the sea, framed by white flowering tree branches and green leaves in warm golden-hour sunlight. The camera remains completely fixed. The main motion is the wind moving through the foreground tree branches, white blossoms, green leaves, and small stems. The leaves and flowers should sway with a strong but calm coastal breeze: clearly visible movement, soft layered fluttering, gentle branch-tip motion, and natural rhythmic swaying across the upper frame and right-side blossoms. The motion must be readable and alive, not static, not frozen, not barely noticeable, but still graceful and emotional. The small white sailboat on the sea moves slowly and naturally across the water, drifting at a calm realistic speed. The boat should remain stable in shape and scale, with no distortion and no sudden acceleration. The sea surface moves gently with subtle flowing ripples and soft sunlight reflections, maintaining a peaceful coastal mood. Warm natural light enters softly from the sky and illuminates the flowers, road, grass, ocean, and distant clouds. The sunlight should remain stable and realistic, with no flicker or exposure change. The road, coastline, fields, distant land, sky, clouds, and overall landscape remain still and unchanged. Preserve the original composition exactly: road curve, flower branches, sailboat position and direction, ocean horizon, coastline, field shapes, sky color, cloud shapes, sunlight direction, shadows, and framing must remain unchanged. Emotional cinematic coastal atmosphere, nostalgic quiet mood, realistic wind motion in blossoms and leaves, gentle boat movement, calm sea flow, 4K quality. No camera movement, no pan, no tilt, no zoom, no shake. No color shift, no white balance change, no exposure flicker, no brightness pulsing, no saturation change. Keep the original warm golden sunlight, blue sea, green fields, white blossoms, soft cloud tones, and natural contrast exactly the same. No object distortion, no extra boats, no disappearing flowers, no morphing, no road or coastline movement.",
+   "thumb": "/nextlab/works/599345e1-7b7c-43d1-a233-7cc90dcf9ca9/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "3f24a913-6a42-4762-813a-1561a8bd5367",
+   "title": "Cinematic film still, low-angle shot, a high-fashion model standing atop a round banquet table holding a chainsaw, dressed in a patterned avant-garde gown. The scene is set in a dimly lit retro ballroom with a massive glowing crystal chandelier directly behind her, creating a golden halo and silhouette effect. Warm amber and yellow lighting, heavy cinematic haze, volumetric fog, 35mm film grain, vintage color grading, 1970s surrealist editorial style, moody and mysterious atmosphere, soft focus background, high contrast, filmic texture.",
+   "thumb": "/nextlab/works/3f24a913-6a42-4762-813a-1561a8bd5367/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "a30e8a83-945d-4f01-a15e-ddd6d747dbae",
+   "title": "Cinematic top-down overhead shot, a woman in a flowing lavender tulle gown floating in the center of a perfectly circular dark reflective pond, surrounded by scattered white and pink flower petals on the water's surface, dense lush botanical garden with tropical foliage and stone steps in the background, low-key dramatic lighting, dappled sunlight filtering through leaves, deep shadows, moody and ethereal atmosphere, dark romanticism, fine art photography style, shot on 35mm film, subtle film grain, rich textures, high contrast, 8k resolution.",
+   "thumb": "/nextlab/works/a30e8a83-945d-4f01-a15e-ddd6d747dbae/0-a1-thumb.webp",
+   "model": "Seedream 5.0 Pro"
+  },
+  {
+   "id": "e73f7642-46f7-4764-8edf-15f6ac5e5931",
+   "title": "The woman in @image_1 sits at a wooden table in an underground food court, in a scene similar to @image_2—pale concrete pillars, cool fluorescent lights, and a blurred newspaper rack in the background. In front of her is a large bowl of steaming spicy noodles, a generous portion. The close-up shot focuses on her face, a 3/4 angle, slightly low. She eats with incredible gusto, with a wild, almost unrestrained enjoyment—quickly picking up clumps of noodles with her chopsticks, eating one bite after another almost nonstop, completely immersed in the food, her face showing undisguised pleasure and excitement; one hand eats noodles, the other holds her phone; the phone screen is not visible in the frame, but its cool light softly illuminates her face from below. Her eyes are vivid and lively—her pupils constantly move, scanning the screen left, right, up, and down, following the content, occasionally glancing up at the bowl and then back down at the phone, sometimes squinting slightly; frequent and natural blinking, subtle movements of her eyebrows and eyelids—her eyes are never still. She chewed vigorously, her cheeks bulging; her cheeks and nose were slightly red from the spiciness. She stopped abruptly, caught her breath, and wiped her forehead with a tissue—a brief pause—before pouncing on the food again. Her expression was vivid, exaggerated, and full of enjoyment. Someone walked calmly past her in the out-of-focus area. Then, she put down her phone, picked up the bowl with both hands, tilted her head back, and gulped down the soup. She placed the bowl back on the table, wiped her mouth with the back of her hand, and let out a satisfied sigh. At the end, the camera slowly panned down to the bowl—we saw it was completely empty, the food gone; simultaneously, she, blurred in the background, got up, left her seat, and walked out of the frame. The anamorphic widescreen lens, oval bokeh, and shallow depth of field. Cinematic backlighting, combined with the cool light from the phone screen, created distinct shadows on her face, a low-key, dark lighting setup. A slow, slight zoom-in, and the final shot smoothly panned down to the bowl. 8K. Audio: No music, only sound effects - the sound of chopsticks clattering, the sound of eating in a dense manner, the sound of bowls being placed on the table, the sound of chairs being moved, the sound of footsteps gradually fading away, and the ambient hum of the underground hall.",
+   "thumb": "/nextlab/works/e73f7642-46f7-4764-8edf-15f6ac5e5931/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "b20f4ff9-b707-44f0-abec-3b14127cb663",
+   "title": "First-person POV — the camera is the viewer's own eyes. Handheld human head-movement, natural sway and micro-jitter as if standing on a moving city bus in warm afternoon light. In front of us stands a young East Asian woman: soft bangs, long dark hair, grey knit cardigan over a light-blue striped shirt, white wired earphones in, one arm raised holding the overhead ring handle. She blinks often and naturally throughout — soft, frequent blinks that make her feel alive and present. Beat 1 (0–1s) — Crash zoom out: hard, fast zoom-out from a tight close-up of her face to a natural eye-level medium shot, lens breathing and slight shake, settling into how a person would actually see her. She blinks as the zoom lands. Beat 2 (1–4s) — POV begins: locked into our own first-person view. Subtle head-turn reframes, breathing motion. She looks directly into our eyes, blinking softly and often, breaks into a warm playful smile, tilts her head — she's talking to us, flirting, speaking softly in Japanese, teasing and cheerful. Beat 3 (4–6s) — Laugh + hand: she laughs, a little shy, blinks quickly a few times, and lifts her free hand to half-cover her mouth, still smiling at us over her fingers, eyes locked on ours. Beat 4 (6–7s) — Impact: sudden violent lateral vehicle impact from screen-RIGHT — a second bus slams into us, brutal sideways camera shake and motion blur, our POV whips hard to the left, harsh metal crunch, cut to black on the hit. Style: natural documentary realism, first-person human POV (not a phone selfie), shallow depth of field, soft window bloom, subtle film grain, ambient bus sound, no music until the final impact. 16:9, ~7 seconds. Flirty Japanese lines she says to you (pick one or two): ねえ、こっち見てよ — \"Hey, look at me\" ふふっ、そんなに見つめないで〜 — \"Hehe, don't stare so much~\" もう、照れるじゃん — \"Ugh, you're making me blush",
+   "thumb": "/nextlab/works/b20f4ff9-b707-44f0-abec-3b14127cb663/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "3416bb1c-a9f9-48cb-8ded-1c303e36ea56",
+   "title": "Static locked camera shot looking upward from a quiet old courtyard, framed by traditional dark roof tiles, weathered plaster walls, climbing greenery, pale pink roses, white flowers, blue hydrangeas, and soft daylight from the open sky. The camera remains completely fixed.The main motion is the strong but graceful wind moving the flowers and plants. The pink roses, white flowers, hydrangeas, green leaves, thin vines, hanging stems, and small branch tips must sway clearly and continuously in the wind. The flowers should visibly flutter, bob, bend, and recover in layered natural motion across the upper wall and roofline. The movement must be obvious and readable, not frozen, not static, and not barely noticeable. The wind should feel strong enough to move the flower clusters, but still calm, elegant, and emotional.Warm natural sunlight enters softly from above and the side, creating gentle highlights on the flowers, leaves, wall, and roof tiles. The sunlight remains stable and realistic. Subtle leaf and flower shadows may shift slightly on the wall because of the moving plants, but the overall exposure and color must not change.The architecture stays completely still: roof tiles, walls, window frame, wooden elements, stone edges, and courtyard structure must not move or distort. Preserve the original composition exactly: flower placement, vine shapes, roofline, wall texture, shadow patterns, sky color, sunlight direction, and framing must remain unchanged.Emotional cinematic courtyard atmosphere, quiet nostalgic mood, realistic strong floral wind motion, soft natural daylight, delicate plant detail, 4K quality.No camera movement, no pan, no tilt, no zoom, no shake. No color shift, no white balance change, no exposure flicker, no brightness pulsing, no saturation change. Keep the original soft daylight, green leaves, pale pink flowers, white flowers, blue hydrangeas, warm wall tones, and natural shadow contrast exactly the same. No object distortion, no extra flowers, no disappearing flowers, no morphing, no architecture movement.",
+   "thumb": "/nextlab/works/3416bb1c-a9f9-48cb-8ded-1c303e36ea56/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "a5c3cc47-6598-4e9e-a6ef-98954b9aa85c",
+   "title": "A cinematic animated scene of a fantasy fairy character walking slowly along the edge of a magical river at twilight. She wears a flowing lavender dress with soft sparkling details, her long golden hair moving naturally with the breeze. Her movement is fully natural — gentle steps, subtle weight shifting, soft arm motion. She is calm, present, slightly dreamy. 🌊 Interaction with environment (key moment) As she walks, her presence begins to affect the environment: when her foot steps close to the water, soft glowing ripples expand outward from those ripples, water lilies begin to bloom one by one the blooming is progressive, following her path — not instant She slightly turns her head and notices this, her expression softens into quiet wonder. 🦢 Swans + waterfall reveal On the river, a few swans glide naturally across the water — not synchronized, each moving independently. As she continues walking, the camera slowly reveals in the distance a large glowing waterfall, partially hidden by mist. The sound and movement of the waterfall add depth — water flows continuously, mist drifting through the air. She slows down slightly, her gaze drawn toward the waterfall. ✨ Subtle magic layer She gently extends her hand near the water surface while walking. Tiny glowing particles appear around her fingertips and drift downward, merging with the water and helping the lilies bloom. Petals float in the air, occasionally brushing past her dress and hair. 🎥 Camera direction start with a low tracking shot from behind, close to the ground following her steps transition into a side tracking shot, showing her profile and the river slow 180-degree arc revealing the water lilies forming behind her camera lifts slightly into a soft aerial movement, revealing swans and the waterfall in distance end with a gentle push toward the waterfall, keeping her in frame 🌿 Environment behavior water reacts dynamically to movement lilies bloom progressively, not all at once swans move independently and naturally mist flows slowly from waterfall reflections shimmer on water surface petals drift with subtle wind currents 🎭 Motion realism rules natural human motion, no robotic movement soft continuous walking rhythm micro-movements (breathing, head turns, fingers) hair and dress follow physics with delay no stiffness, no frozen poses",
+   "thumb": "/nextlab/works/a5c3cc47-6598-4e9e-a6ef-98954b9aa85c/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "d892a752-22b8-4c8a-8242-30794b34c170",
+   "title": "person in yellow hazmat suit is sitting on the chair in an claustrophobic room, room gets flooded with water up to the ceiling, person is drowning",
+   "thumb": "/nextlab/works/d892a752-22b8-4c8a-8242-30794b34c170/0-a1-thumb.webp",
+   "model": "Gemini Omni Fast"
+  },
+  {
+   "id": "094ab73a-1910-406e-b4c9-6eeb6251f5f3",
+   "title": "30-second continuous single-shot POV video, contemporary Japanese apartment, rainy evening. A young father returns home from work; entire video is one uninterrupted take, no cuts, no transitions, no teleporting camera. POV Lock: Eye-level of a 175cm male, natural head/body movement only. Face and body never shown, even in reflections. Only hands/wrists/forearms visible: light-skinned, male, defined knuckles, short neat nails, silver wedding ring (left hand), charcoal jacket cuffs, white shirt cuffs. Hands start wet/glossy, become fully dry and matte only after being toweled — no reflection returns afterward. Carries a semi-transparent convenience store bag (raindrops on it) in left hand. Setting: Cramped entryway (checkered shoe cabinet, kids' shoes, umbrella stand), short wooden hallway (child's drawing, scattered blocks), open kitchen/dining area. Steady rain outside throughout — visible on hallway railing at start, clinging to kitchen window later; blue-gray buildings with scattered warm window lights. Warm interior light vs. cool exterior. No branded/legible items. Timeline: 0–6s: He turns the doorknob, opens door, says \"Tadaima.\" Folds umbrella (ribs bounce, water scatters), fumbles placing it in the stand, adjusts on second try. Bag rustles. Sound shifts from open rain to muffled indoor rain. Hurried footsteps and paw-slipping sounds approach from the hallway. 6–14s: Shiba Inu (black/brown) skids in with a slipper in its mouth, front paws bracing, hindquarters sliding before catching balance; head-tilts before dropping the slipper, then wiggles/twists excitedly in place. Daughter (~4, pale yellow pajamas, ponytail) runs in with a towel bigger than her, arms flailing, overshoots and leans forward before stabilizing. He crouches — bends, hand braced on knee, then kneels. Toweling sequence: hand disappears completely into towel, daughter presses/rubs through fabric (zero direct skin contact), humming; towel lifts to reveal dry matte hand. Repeats for other hand, faster/sloppier. Bag set down half-tilted during this. 14–21s: He ruffles her ponytail (she dodges playfully, returns), retrieves jelly cup from bag after fumbling, hands it over. She nearly drops it, hugs it to chest, jumps (knees buckle on landing), shouts \"Zeree!\" Dog sniffs eagerly (twitching nose, front paws shifting); she giggles and spins away, overshooting the turn. 21–30s: He rises (lean-then-straighten, camera rises with him). Daughter leads down the hallway, skip-stepping, towel corner dragging; dog trots between them, spine undulating. Passes the child's drawing on the wall. Kitchen comes into view: wife in loungewear/dark green apron, stirring a pot of soba, weight leaned on the stove; she half-turns her shoulder, says \"Okaeri\" softly, turns back. Daughter climbs onto a chair (it wobbles), holds jelly up to show her, leaning back. Dog circles under the table before lying down, chin on paws. Final frame: steam, warm light, rain streaking the window, table set for three, everyone still subtly moving. Motion rules: Every movement follows prep→action→settle biomechanics with acceleration/deceleration and post-movement sway — never simultaneous, symmetrical, or uniform-speed. Constant micro-movement (breathing, weight shifts) for all living things. Imperfect, overlapping actions (nobody waits their turn). Camera: Fixed 47° FOV, weighted head-inertia sway, natural autofocus breathing between focal points, no floating/stabilizer look, no zoom/fisheye. Exposure shifts naturally from cool hallway light to warm interior on entry. Visuals: Photorealistic, natural DOF, low-saturation realistic color, real rain/steam/fabric physics, steady 24fps, no slow-mo, no stutter/ghosting. Audio: Continuous natural sound only — rain (clear→muffled), umbrella shake, bag rustle, messy footsteps/paw slips, slipper drop, towel friction, giggles, dog snorts/soft barks, pot bubbling, range hood hum, chair creak, dish clinks. Dialogue: \"Tadaima,\" \"Papa!,\" \"Zeree!,\" \"Okaeri\" — natural-volume Japanese. No music, narration, subtitles, or watermark.",
+   "thumb": "/nextlab/works/094ab73a-1910-406e-b4c9-6eeb6251f5f3/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  },
+  {
+   "id": "0d09955f-d9d2-4e55-a766-5800c6491df7",
+   "title": "Scene background: A 30-second, extreme-dynamic mixed-media cinematic opening title sequence for the fictional poetic fantasy film 《THE LAST LAMPLIGHTER》. The opening and closing sections are premium painterly 2D animation—thick impasto oil paint + gouache brushstrokes, with contour lines boiling frame by frame—while the middle section explodes into photoreal live action with real film grain, halation, and 1000fps macro slow motion. The only protagonist: a lean, tall lamplighter—a high-collared charcoal overcoat, a long flowing ochre scarf, leather gloves, holding a brass lamplighting pole with a flame burning at its tip, moving like a parkour dancer. Core mechanism: every time he lights a lamp, a line of credits is born; every line uses a completely different top-tier typographic material, and all text physically exists within the scene. The camera does not remain still for a single frame throughout the film: it is always sprinting, diving, orbiting, or whip-panning. Every edit is locked precisely to the drumbeats of the electro-swing music. Typography system (five types, lock each one individually, no ordinary printed typefaces): ① Studio credit: molten liquid gilded-chrome serif—the letters look immersed in molten metal, with thick main stems and hairline strokes as sharp as scalpel cuts; flowing highlights across the surface reflect the lamplight; the letters are still dripping as they settle into position, then solidify into their final form within half a second; ② Director credit: an ultra-slanted 30-degree true italic kinetic typeface, as if flying at terminal velocity, with speed-line afterimages trailing from the ends of the strokes, written in one continuous stroke by a diving swarm of moths; ③ Cast credits: variable-font glass gaslight-tube lettering—the predecessor of neon—the weight and width of the letters expand and contract in real time with every drumbeat, breathing according to the squash-and-stretch principle; ember-gold gas inside the tubes ignites, hums, and flickers; ④ Tagline: Brutalist industrial ultra-black stencil lettering, with ink traps and clipped corners, stamped and cut out of thick iron plates, with furnace fire blasting as backlight through the gaps in the letters; ⑤ Main title: maximalism in which text is the image—the entire city’s streetlamp grid forms monumental Art Deco letters, their surfaces covered in flowing molten-gold chrome highlights. Transition system (only the following transitions may be used throughout the film; every transition lands on a drumbeat, and the movement direction on both sides of every edit must remain strictly continuous): whip-pan cuts (hard cut at the peak frame of motion blur), occlusion wipes (a tram/barge/overcoat/moth swarm crosses and blocks the lens to complete the scene change), zoom-through transitions (with elastic lens distortion and rebound), speed ramps (slow motion abruptly freezes, then whip-pans back to full speed), vertigo dolly zooms, smash cuts, fire-flash white cuts, and invisible edits hidden by the black overcoat. Color palette locked: twilight magenta #C2447A / amber #E8A13C sky, indigo night #1A1E3C, ember gold #F2B34C, charcoal black #14121A. Use only this system throughout the entire film. Act One—Painted Twilight (Full Sprint) Shot 1: Three drumbeats, three consecutive smash cuts: ① bands of burning magenta-and-amber twilight clouds sweep across the sky; ② a sea of pitched-roof and chimney silhouettes; ③ the camera plunges vertically toward the wet cobblestone street, then violently pulls level just above the ground—flying inches above the street. Vinyl noise + electro-swing bass enter. Shot 2: The lamplighter sprints into frame at full speed, his overcoat horizontal in the wind, his scarf pulled straight, the flame at the tip of the pole roaring and trailing a tongue of fire. A low-angle whip-pan tracks him laterally; the background brushstrokes stretch into motion trails; sleeping streetlamps on both sides flash past continuously like black stemmed goblets. His footfalls synchronize beat by beat with the breakbeat. Shot 3: Without slowing down, he lights the first lamp: he drops into a one-knee sliding kneel and skims past the lamppost, flicks the long pole upward, the flame kisses the wick, and the glass lamp bursts open with light; on the same beat, molten liquid gilded-chrome serif letters are cast into shape from the lamp flame, dripping molten metal for half a second before solidifying: “AMBER MOTH PICTURES PRESENTS”. A crash zoom punches into the molten gold dripping from the letter surface, then violently pulls back. He is already far away. Whip-pan cut (cut at the peak of the blur; the motion trail transforms into a canal). Shot 4: He vaults over the iron railing along the riverbank with one hand and lights a riverside lamp while airborne; a swarm of moths dives just above the water, writing in one continuous stroke with a 30-degree ultra-slanted kinetic italic and dragging speed-line afterimages behind it: “A FILM BY E. SOLENNE”. The letters race across the ripples as if trying to escape the frame. The black silhouette of a barge cuts laterally across the entire frame—occlusion wipe into the next scene: Shot 5: Rooftop parkour. He sprints and leaps along the roof ridges; every time he clears another street, he scatters sparks that ignite an entire row of streetlamps, the row bursting to life like piano keys with ascending pitch; above each lamp, glass gaslight-tube letters blow themselves into shape and ignite, their weight expanding and contracting with the drumbeats as they breathe: “STARRING”, “J. VESPER”, “L. AMARANTE”, “T. LUNE”—each name lighting up is accompanied by a crash zoom. A foreground tram thunders laterally across the frame, dragging strobing windows behind it—occlusion wipe: Shot 6: Bullet time: a violent gust lifts sparks and moths into the air, then time abruptly drops into extreme slow motion—a thousand sparks hang suspended in midair like constellations; the camera performs a 180-degree orbit around the frozen lamplighter and the sparks—then whip-pans back to full speed as the sparks explode outward. Timpani roll. Act Two—Photoreal Impact (Live Action) Shot 7: Match cut: close-up of the painted glove striking the long pole alight—hard cut in the identical composition to a photoreal live-action macro shot: real leather, real brass, a real flame igniting at 1000fps, the flame core rolling and curling with blue-orange edges. The entire music track suddenly drops for half a beat, then explodes back in. Shot 8: Live action: the real lamplighter sprints at full speed along a rain-soaked cobblestone street lined with real gas lamps; an 84-degree wide-angle handheld camera races after him inches above the ground, puddles exploding beneath his feet; he leaps into the air and lights a lamp; at the far end of the street, a central tower and the enormous lamp at its summit—the “City Moon”—are revealed. Vertigo dolly zoom: the camera physically pushes in while the lens zooms out; the tower remains still while the space of the entire street compresses and expands toward it, and the sky distorts. Breathing, flames, and wheels are all captured as real production sound. Shot 9: Zoom through the glass of a lamp globe—with elastic distortion and rebound—entering the tower shaft: live-action climbing on a spiral iron staircase, a drone-like orbit rapidly ascending with speed ramps, the sea of city lights rotating and unfolding beneath his feet; his black overcoat sweeps across the lens—invisible cut: Shot 10: Live-action macro shot at the top of the tower: the entire scene holds its breath for one beat, all sound muted except the wind—the flame touches the wick: at 1000fps, radiance explodes layer by layer along the wick, and a golden vortex fills the glass—an intense white-gold light consumes the frame, fire-flash white cut. One full-bodied tubular bell strike. Act Three—Painted Finale Shot 11: The white light smash-cuts back into painting: a magnificent aerial high-speed orbital pullback, with the cloud layers moving in parallax; the illuminated City Moon hangs above the night city like a second moon, while below it the entire city’s streetlamp grid reveals itself as monumental Art Deco letters spanning the city, their surfaces flowing with molten-gold chrome highlights: “THE LAST LAMPLIGHTER”. A thousand lamps flicker and breathe, and moths circle the tower in a ring. The full ensemble erupts in a triumphant climax. Shot 12: Smash cut to a close-up of a black iron plate: furnace-fire backlight blasts through the gaps of ultra-black stencil letters stamped and cut out of the plate, the fire breathing inside the letter gaps: “HE LIGHTS WHAT THE NIGHT FORGETS”. Final beat: one solitary moth crosses the face of the letters, the music resolves into a single music-box note, freeze until the end. Physics: the painted sections use flexible painterly physics but realistic speed: flames respond to wind, lamp halos decay across a realistic radius, moth swarms exhibit realistic collective behavior, fabric has delayed follow-through, parkour landings carry weight, the dripping molten-gold letters have viscosity and surface tension, and the inflating glass-tube letters have internal-pressure elasticity. The live-action section uses fully realistic physics: fluid flame behavior, drifting wing-scale dust, puddle splashes, and heaving chest breath. Across every transition, movement direction, speed, and light position remain strictly continuous on both sides. Lighting: during the twilight section, the twilight sky is the only light source, and the character appears in silhouette or half-silhouette; every newly illuminated lamp instantly becomes a localized warm light source; the live-action section uses only gas lamps and flames as practical light, with the indigo shadows never dying into black; the tower-top ignition is the brightest highlight in the entire film, and one lens flare is allowed; the stencil lettering is illuminated only by furnace backlight. No flat frontal lighting. Audio: no narration, no lyrics. Intensely driving electro-swing: vinyl noise + big-band brass + electronic breakbeats, high BPM; the three consecutive smash cuts land on three drumbeats, the sliding lamp ignition lands on a brass hit, the molten-gold letters solidify with the hiss of metal quenching, the rows of lamps rise in pitch like piano keys, the inflation hum of the glass-tube letters enters the rhythm, bullet time suddenly silences the entire scene for one beat, the music suddenly drops immediately before the live-action impact, the vertigo dolly zoom is accompanied by an ascending string glissando, the ignition lands with a tubular bell, the finale erupts in a triumphant full-ensemble climax, and the ending returns to silence through a single music-box note. Foley: roaring and puffing flames, molten-gold drips, glass-tube humming, moth-wing vibration, tram thunder, low barge horn, rain-soaked footsteps and puddles, high wind passing over the tower, and furnace fire roaring through the iron plate. Positive lock: all on-screen text must be spelled exactly as written and use the specified typographic material: “AMBER MOTH PICTURES PRESENTS” (molten gilded-chrome serif), “A FILM BY E. SOLENNE” (30-degree kinetic italic), “STARRING”, “J. VESPER”, “L. AMARANTE”, “T. LUNE” (variable glass gaslight-tube lettering), “THE LAST LAMPLIGHTER” (monumental Art Deco letters formed by the city’s streetlamp grid + molten-gold highlights), “HE LIGHTS WHAT THE NIGHT FORGETS” (ultra-black stencil lettering + furnace backlight). No other text anywhere in the film, no watermark, no UI. The lamplighter is the only character, and his painted and live-action appearances are completely identical. The color palette is locked; the boiling painted brushstrokes never disappear during the animated sections, and the live-action section retains a vintage film texture; the two media intersect only at the match cut in Shot 7 and the flash-white transition in Shot 11. The camera never remains still, and every edit must land on a drumbeat.",
+   "thumb": "/nextlab/works/0d09955f-d9d2-4e55-a766-5800c6491df7/0-a1-thumb.webp",
+   "model": "Seedance 2.5"
+  }
+ ],
+ "recipes": [],
+ "errors": [
+  {
+   "slug": "image_size",
+   "title": "参考图尺寸不符合要求"
+  },
+  {
+   "slug": "image_blocked",
+   "title": "参考图被审核拦下"
+  },
+  {
+   "slug": "copyright_blocked",
+   "title": "涉及版权限制"
+  },
+  {
+   "slug": "output_blocked",
+   "title": "生成结果被审核拦下"
+  },
+  {
+   "slug": "video_task_type",
+   "title": "参考视频被当成了编辑或续写"
+  },
+  {
+   "slug": "reference_video_length",
+   "title": "参考视频太长"
+  },
+  {
+   "slug": "frame_ratio",
+   "title": "图生视频不能指定画面比例"
+  },
+  {
+   "slug": "task_not_found",
+   "title": "平台查不到这个任务"
+  },
+  {
+   "slug": "media_too_large",
+   "title": "素材文件太大"
+  },
+  {
+   "slug": "audio_format",
+   "title": "音频格式不支持"
+  },
+  {
+   "slug": "rate_limited",
+   "title": "请求太频繁"
+  },
+  {
+   "slug": "bad_parameter",
+   "title": "有一个参数平台不接受"
+  },
+  {
+   "slug": "invalid_key",
+   "title": "API Key无效"
+  },
+  {
+   "slug": "no_channel",
+   "title": "模型当前不可用"
+  },
+  {
+   "slug": "upstream_no_model",
+   "title": "上游不认模型名"
+  },
+  {
+   "slug": "upstream_bad_route",
+   "title": "上游地址配置错误"
+  },
+  {
+   "slug": "overloaded",
+   "title": "上游负载高"
+  },
+  {
+   "slug": "upstream_model_unknown",
+   "title": "上游不认识这个模型"
+  },
+  {
+   "slug": "upstream_unreachable",
+   "title": "上游连接失败"
+  },
+  {
+   "slug": "upstream_failed",
+   "title": "上游请求失败"
+  },
+  {
+   "slug": "upstream_rejected",
+   "title": "上游拒绝"
+  },
+  {
+   "slug": "upstream_model_not_found",
+   "title": "上游没有这个模型"
+  },
+  {
+   "slug": "upstream_payment_required",
+   "title": "上游账号欠费"
+  },
+  {
+   "slug": "timeout",
+   "title": "请求超时"
+  },
+  {
+   "slug": "origin_down",
+   "title": "平台暂时连不上"
+  },
+  {
+   "slug": "bad_gateway",
+   "title": "网关回源失败"
+  },
+  {
+   "slug": "upstream_out_of_quota",
+   "title": "上游账号额度用完"
+  },
+  {
+   "slug": "no_price",
+   "title": "平台没给这个模型定价"
+  },
+  {
+   "slug": "insufficient_quota",
+   "title": "额度不足"
+  },
+  {
+   "slug": "content_blocked",
+   "title": "内容被拦截"
+  },
+  {
+   "slug": "invalid_request",
+   "title": "请求参数有误"
+  },
+  {
+   "slug": "forbidden",
+   "title": "没有权限"
+  }
+ ],
+ "agents": [
+  {
+   "slug": "claude-code",
+   "name": "Claude Code"
+  },
+  {
+   "slug": "codex",
+   "name": "Codex"
+  },
+  {
+   "slug": "cursor",
+   "name": "Cursor"
+  },
+  {
+   "slug": "workbuddy",
+   "name": "WorkBuddy"
+  },
+  {
+   "slug": "cc-switch",
+   "name": "CS CC Switch"
+  },
+  {
+   "slug": "gemini-cli",
+   "name": "Gemini CLI"
+  },
+  {
+   "slug": "cline",
+   "name": "Cline"
+  },
+  {
+   "slug": "opencode",
+   "name": "OpenCode"
+  },
+  {
+   "slug": "zcode",
+   "name": "ZCode"
+  },
+  {
+   "slug": "cherry-studio",
+   "name": "Cherry Studio"
+  },
+  {
+   "slug": "magpie",
+   "name": "magpie"
+  },
+  {
+   "slug": "openclaw",
+   "name": "openclaw"
+  },
+  {
+   "slug": "codebuddy-code",
+   "name": "codebuddy-code"
+  },
+  {
+   "slug": "hermes",
+   "name": "hermes"
+  },
+  {
+   "slug": "qwen-code",
+   "name": "qwen-code"
+  },
+  {
+   "slug": "kimi-code",
+   "name": "kimi-code"
+  },
+  {
+   "slug": "qoder",
+   "name": "qoder"
+  },
+  {
+   "slug": "copilot-cli",
+   "name": "copilot-cli"
+  },
+  {
+   "slug": "antigravity-cli",
+   "name": "antigravity-cli"
+  },
+  {
+   "slug": "droid",
+   "name": "droid"
+  },
+  {
+   "slug": "grok-build",
+   "name": "grok-build"
+  },
+  {
+   "slug": "crush",
+   "name": "crush"
+  },
+  {
+   "slug": "goose",
+   "name": "goose"
+  },
+  {
+   "slug": "aider",
+   "name": "aider"
+  },
+  {
+   "slug": "pi",
+   "name": "pi"
+  },
+  {
+   "slug": "vscode-copilot",
+   "name": "vscode-copilot"
+  },
+  {
+   "slug": "kilo-code",
+   "name": "kilo-code"
+  },
+  {
+   "slug": "continue",
+   "name": "continue"
+  },
+  {
+   "slug": "jetbrains-ai",
+   "name": "jetbrains-ai"
+  },
+  {
+   "slug": "zed",
+   "name": "zed"
+  },
+  {
+   "slug": "claude-desktop",
+   "name": "claude-desktop"
+  },
+  {
+   "slug": "chatbox",
+   "name": "chatbox"
+  },
+  {
+   "slug": "aionui",
+   "name": "aionui"
+  },
+  {
+   "slug": "deepseek-harness",
+   "name": "deepseek-harness"
+  }
+ ]
+}
