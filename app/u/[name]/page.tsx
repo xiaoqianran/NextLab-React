@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { SITE } from "@/lib/data";
+import { SITE, BASE_PATH } from "@/lib/data";
 
 export function generateStaticParams() {
   return [{ name: "lab_openai-next" }];
@@ -24,7 +24,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ name: 
         {works.map((w) => (
           <Link key={w.id} href={`/w/${w.id}`} className="group">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={`/assets${w.thumb.replace("/nextlab", "")}`} alt={w.title}
+            <img src={`${BASE_PATH}/assets${w.thumb.replace("/nextlab", "")}`} alt={w.title}
               className="aspect-[4/3] w-full rounded-3xl border border-line-1 object-cover transition group-hover:opacity-90" />
             <div className="mt-2 line-clamp-2 text-sm text-fg-2">{w.title}</div>
           </Link>

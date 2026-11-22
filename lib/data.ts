@@ -34,6 +34,10 @@ export const MODEL_MAP: Record<string, Model> = modelsJson as Record<string, Mod
 export const SITE: SiteData = siteJson as SiteData;
 export const WORK_MEDIA: Record<string, string> = workMediaJson as Record<string, string>;
 
+// 部署子路径（GitHub Pages 项目站点为 /NextLab-React）；本地为空。
+// 手写绝对路径的静态资源（图片、图标）必须带上它，Next 的路由与 _next 资源由 basePath 自动处理。
+export const BASE_PATH: string = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export const TYPE_LABEL: Record<Model["type"], string> = { text: "文本", image: "图像", video: "视频", audio: "音频" };
 export const TYPE_ORDER: Model["type"][] = ["text", "image", "video", "audio"];
 

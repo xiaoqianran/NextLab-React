@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { SITE } from "@/lib/data";
+import { SITE, BASE_PATH } from "@/lib/data";
 
 export default function GalleryPage() {
   const works = SITE.works ?? [];
@@ -11,7 +11,7 @@ export default function GalleryPage() {
         {works.map((w) => (
           <Link key={w.id} href={`/w/${w.id}`} className="group">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={`/assets${w.thumb.replace("/nextlab", "")}`} alt={w.title}
+            <img src={`${BASE_PATH}/assets${w.thumb.replace("/nextlab", "")}`} alt={w.title}
               className="aspect-[4/3] w-full rounded-3xl border border-line-1 object-cover transition group-hover:opacity-90" />
             <div className="mt-2 line-clamp-2 text-sm leading-snug text-fg-2">{w.title}</div>
             {w.model && <div className="mt-0.5 text-xs text-fg-4">{w.model}</div>}

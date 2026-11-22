@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { MODELS, SITE, TYPE_LABEL } from "@/lib/data";
+import { MODELS, SITE, TYPE_LABEL, BASE_PATH } from "@/lib/data";
 
 export default function Home() {
   const stats = SITE.home?.stats ?? {};
@@ -40,7 +40,7 @@ export default function Home() {
             {works.map((w) => (
               <Link key={w.id} href={`/w/${w.id}`} className="group w-[240px] shrink-0">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={`/assets${w.thumb.replace("/nextlab", "")}`} alt={w.title}
+                <img src={`${BASE_PATH}/assets${w.thumb.replace("/nextlab", "")}`} alt={w.title}
                   className="aspect-[4/3] w-full rounded-2xl border border-line-1 object-cover transition group-hover:opacity-90" />
                 <div className="mt-2 line-clamp-1 text-[13px] text-fg-2">{w.title}</div>
                 {w.model && <div className="text-xs text-fg-4">{w.model}</div>}

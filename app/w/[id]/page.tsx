@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { SITE, WORK_MEDIA } from "@/lib/data";
+import { SITE, WORK_MEDIA, BASE_PATH } from "@/lib/data";
 
 export function generateStaticParams() {
   return (SITE.works ?? []).map((w) => ({ id: w.id }));
@@ -29,7 +29,7 @@ export default async function WorkDetail({ params }: { params: Promise<{ id: str
       {w.model && <div className="mt-2 text-sm text-fg-3">生成模型：{w.model}</div>}
       <div className="mt-6 overflow-hidden rounded-3xl border border-line-1">
         {ext === "mp4" ? (
-          <video src={mediaUrl} controls className="w-full" poster={`/assets${w.thumb.replace("/nextlab", "")}`} />
+          <video src={mediaUrl} controls className="w-full" poster={`${BASE_PATH}/assets${w.thumb.replace("/nextlab", "")}`} />
         ) : (
           // eslint-disable-next-line @next/next/no-img-element
           <img src={mediaUrl} alt={w.title} className="w-full" />
